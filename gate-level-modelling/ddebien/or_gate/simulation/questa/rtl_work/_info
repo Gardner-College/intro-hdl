@@ -1,0 +1,51 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.3 2024.09, Sep 10 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien/simulation/questa
+T_opt
+!s110 1750302120
+VF:hfK2loCMPlAdFJCckeX1
+04 7 4 work or_gate fast 0
+=1-b047e93682d8-68537da7-42-5b68
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U1 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.3;79
+vor_gate
+2C:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien/or_gate.v
+!s110 1750302109
+!i10b 1
+!s100 Y:n]C:Qc7i6R0TP@PF:@I2
+I:Lza_=5NSWgh14fYznc2<3
+R1
+w1750301866
+8C:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien/or_gate.v
+FC:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien/or_gate.v
+!i122 0
+L0 10 9
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2024.3;79
+r1
+!s85 0
+31
+!s108 1750302108.000000
+!s107 C:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien/or_gate.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien|C:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien/or_gate.v|
+!i113 0
+o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+C:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2

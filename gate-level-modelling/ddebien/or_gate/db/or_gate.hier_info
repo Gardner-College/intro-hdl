@@ -1,0 +1,6 @@
+|or_gate
+A => ddebien.IN0
+B => ddebien.IN1
+C <= ddebien.DB_MAX_OUTPUT_PORT_TYPE
+
+

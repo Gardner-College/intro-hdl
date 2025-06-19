@@ -1,0 +1,55 @@
+# Reading pref.tcl
+# //  Questa Intel Starter FPGA Edition-64
+# //  Version 2024.3 win64 Sep 10 2024
+# //
+# // Unpublished work. Copyright 2024 Siemens
+# //
+# // This material contains trade secrets or otherwise confidential information
+# // owned by Siemens Industry Software Inc. or its affiliates (collectively,
+# // "SISW"), or its licensors. Access to and use of this information is strictly
+# // limited as set forth in the Customer's applicable agreements with SISW.
+# //
+# // This material may not be copied, distributed, or otherwise disclosed outside
+# // of the Customer's facilities without the express written permission of SISW,
+# // and may not be used in any way not expressly authorized by SISW.
+# //
+# do or_gate_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Questa Intel Starter FPGA Edition-64 vmap 2024.3 Lib Mapping Utility 2024.09 Sep 10 2024
+# vmap work rtl_work 
+# Copying C:/altera/24.1std/questa_fse/win64/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien {C:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien/or_gate.v}
+# Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 05:01:48 on Jun 19,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien" C:/Users/msi-claw/PycharmProjects/intro-hdl/gate-level-modelling/ddebien/or_gate.v 
+# -- Compiling module or_gate
+# 
+# Top level modules:
+# 	or_gate
+# End time: 05:01:49 on Jun 19,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+vsim -voptargs=+acc work.or_gate
+# vsim -voptargs="+acc" work.or_gate 
+# Start time: 05:01:57 on Jun 19,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10908) Some optimizations are turned off because the +acc switch is in effect.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading work.or_gate(fast)
+add wave -position end  sim:/or_gate/A
+add wave -position end  sim:/or_gate/B
+add wave -position end  sim:/or_gate/C
+force -freeze sim:/or_gate/A 1 0, 0 {50 ns} -r 100
+force -freeze sim:/or_gate/A 0 0, 0 {50 ns} -r 100
+force -freeze sim:/or_gate/B 1 0, 0 {50 ns} -r 100
+force -freeze sim:/or_gate/B 1 0, 0 {50 ns} -r 100
+run
+run
+# End time: 05:09:05 on Jun 19,2025, Elapsed time: 0:07:08
+# Errors: 0, Warnings: 1
