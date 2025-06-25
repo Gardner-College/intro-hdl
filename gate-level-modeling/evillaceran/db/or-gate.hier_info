@@ -1,0 +1,6 @@
+|or_gate
+A => evillaceran.IN0
+B => evillaceran.IN1
+C <= evillaceran.DB_MAX_OUTPUT_PORT_TYPE
+
+
