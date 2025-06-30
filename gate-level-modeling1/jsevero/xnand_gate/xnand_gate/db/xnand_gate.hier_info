@@ -1,0 +1,6 @@
+|xnand_gate
+A => jsevero_temp.IN0
+B => jsevero_temp.IN1
+C <= jsevero_temp.DB_MAX_OUTPUT_PORT_TYPE
+
+

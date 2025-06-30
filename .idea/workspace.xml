@@ -4,145 +4,603 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf6447be-c625-4631-a4bb-ee1956514c58" name="Changes" comment="laboratory exercise #001 intro-HDL by Ernie James Mago">
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/.cmp.kpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.(0).cnf.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.(0).cnf.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.asm.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.asm.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.asm_labs.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cbx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.logdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp0.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.db_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.eda.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.fit.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.hier_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.hif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.logdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.npp.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.pre_map.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.root_partition.map.reg_db.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.routing.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.rtlv.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.rtlv_sg.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.rtlv_sg_swap.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sgate.nvd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sgate_sm.nvd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sld_design_entry.sci" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sld_design_entry_dsc.sci" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.smart_action.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sta.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sta.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sta_cmp.4_slow.tdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.tis_db_list.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.tmw_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.vpr.ammdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/incremental_db/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/incremental_db/compiled_partitions/xand_gate.db_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/incremental_db/compiled_partitions/xand_gate.root_partition.map.kpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.asm.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.done" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.eda.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.fit.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.fit.smsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.fit.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.flow.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.jdi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.map.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.map.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.pin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.pof" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.sld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.sta.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.sta.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/simulation/questa/xand_gate.sft" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/simulation/questa/xand_gate.vo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.qpf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.qsf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.qws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.v" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/.cmp.kpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.(0).cnf.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.(0).cnf.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.asm.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.asm.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.asm_labs.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cbx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.logdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp0.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.db_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.eda.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.fit.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.hier_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.hif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.logdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.npp.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.pre_map.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.root_partition.map.reg_db.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.routing.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.rtlv.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.rtlv_sg.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.rtlv_sg_swap.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sgate.nvd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sgate_sm.nvd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sld_design_entry.sci" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sld_design_entry_dsc.sci" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.smart_action.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sta.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sta.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sta_cmp.4_slow.tdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.tis_db_list.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.tmw_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.vpr.ammdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/incremental_db/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/incremental_db/compiled_partitions/xnand_gate.db_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/incremental_db/compiled_partitions/xnand_gate.root_partition.map.kpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.asm.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.done" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.eda.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.fit.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.fit.smsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.fit.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.flow.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.jdi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.map.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.map.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.pin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.pof" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.sld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.sta.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.sta.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/simulation/questa/xnand_gate.sft" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/simulation/questa/xnand_gate.vo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.qpf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.qsf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.qws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.v" afterDir="false" />
+    <list default="true" id="df11c5d6-dac1-40d7-aea5-edfa78dc337a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/and_gate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/and_gate.qpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/and_gate.qsf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/and_gate.qws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/and_gate.v" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/.cmp.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.(0).cnf.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.(0).cnf.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.asm.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.asm.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.asm_labs.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.cbx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.cmp.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.cmp.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.cmp.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.cmp0.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.eda.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.fit.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.hier_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.hif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.lpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.lpc.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.lpc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.map.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.map.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.map.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.map.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.npp.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.pre_map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.routing.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.rtlv.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.rtlv_sg.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.sgate.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.sgate_sm.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.sld_design_entry.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.smart_action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.sta.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.sta.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.tis_db_list.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.tmw_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/db/and_gate.vpr.ammdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/incremental_db/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/incremental_db/compiled_partitions/and_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/incremental_db/compiled_partitions/and_gate.root_partition.map.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.asm.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.eda.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.fit.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.fit.smsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.fit.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.flow.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.jdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.map.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.map.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.pin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.pof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.sld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.sta.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/output_files/and_gate.sta.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/simulation/questa/and_gate.sft" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/and_gate/and_gate/simulation/questa/and_gate.vo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/.cmp.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.(0).cnf.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.(0).cnf.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.asm.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.asm.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.asm_labs.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.cbx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.cmp.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.cmp.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.cmp.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.cmp0.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.eda.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.fit.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.hier_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.hif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.lpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.lpc.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.lpc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.map.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.map.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.map.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.map.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.npp.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.pre_map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.routing.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.rtlv.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.rtlv_sg.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.sgate.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.sgate_sm.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.sld_design_entry.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.smart_action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.sta.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.sta.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.tis_db_list.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.tmw_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/db/nand_gate.vpr.ammdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/incremental_db/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/incremental_db/compiled_partitions/nand_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/incremental_db/compiled_partitions/nand_gate.root_partition.map.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/nand_gate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/nand_gate.qpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/nand_gate.qsf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/nand_gate.qws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/nand_gate.v" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.asm.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.eda.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.fit.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.fit.smsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.fit.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.flow.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.jdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.map.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.map.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.pin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.pof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.sld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.sta.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/output_files/nand_gate.sta.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/simulation/questa/nand_gate.sft" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nand_gate/nand_gate/simulation/questa/nand_gate.vo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/.cmp.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.(0).cnf.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.(0).cnf.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.asm.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.asm.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.asm_labs.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.cbx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.cmp.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.cmp.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.cmp.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.cmp0.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.eda.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.fit.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.hier_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.hif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.lpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.lpc.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.lpc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.map.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.map.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.map.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.map.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.npp.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.pre_map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.routing.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.rtlv.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.rtlv_sg.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.sgate.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.sgate_sm.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.sld_design_entry.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.smart_action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.sta.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.sta.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.tis_db_list.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.tmw_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/db/nor_gate.vpr.ammdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/incremental_db/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/incremental_db/compiled_partitions/nor_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/incremental_db/compiled_partitions/nor_gate.root_partition.map.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/nor_gate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/nor_gate.qpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/nor_gate.qsf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/nor_gate.qws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/nor_gate.v" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.asm.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.eda.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.fit.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.fit.smsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.fit.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.flow.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.jdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.map.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.map.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.pin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.pof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.sld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.sta.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/output_files/nor_gate.sta.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/simulation/questa/nor_gate.sft" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/nor_gate/nor_gate/simulation/questa/nor_gate.vo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/.cmp.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.(0).cnf.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.(0).cnf.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.asm.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.asm.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.asm_labs.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.cbx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.cmp.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.cmp.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.cmp.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.cmp0.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.eda.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.fit.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.hier_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.hif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.lpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.lpc.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.lpc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.map.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.map.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.map.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.map.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.npp.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.pre_map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.routing.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.rtlv.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.rtlv_sg.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.sgate.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.sgate_sm.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.sld_design_entry.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.smart_action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.sta.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.sta.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.tis_db_list.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.tmw_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/db/not_gate.vpr.ammdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/incremental_db/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/incremental_db/compiled_partitions/not_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/incremental_db/compiled_partitions/not_gate.root_partition.map.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/not_gate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/not_gate.qpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/not_gate.qsf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/not_gate.qws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/not_gate.v" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.asm.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.eda.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.fit.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.fit.smsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.fit.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.flow.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.jdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.map.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.map.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.pin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.pof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.sld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.sta.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/output_files/not_gate.sta.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/simulation/questa/not_gate.sft" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/not_gate/not_gate/simulation/questa/not_gate.vo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/.cmp.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.(0).cnf.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.(0).cnf.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.asm.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.asm.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.asm_labs.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.cbx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.cmp.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.cmp.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.cmp.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.cmp0.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.eda.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.fit.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.hier_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.hif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.lpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.lpc.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.lpc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.map.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.map.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.map.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.map.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.npp.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.pre_map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.routing.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.rtlv.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.rtlv_sg.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.sgate.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.sgate_sm.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.sld_design_entry.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.smart_action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.sta.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.sta.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.tis_db_list.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.tmw_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/db/or_gate.vpr.ammdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/incremental_db/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/incremental_db/compiled_partitions/or_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/incremental_db/compiled_partitions/or_gate.root_partition.map.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/or_gate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/or_gate.qpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/or_gate.qsf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/or_gate.qws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/or_gate.v" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.asm.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.eda.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.fit.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.fit.smsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.fit.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.flow.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.jdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.map.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.map.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.pin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.pof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.sld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.sta.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/output_files/or_gate.sta.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/simulation/questa/or_gate.sft" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/or_gate/or_Gate/simulation/questa/or_gate.vo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/.cmp.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.(0).cnf.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.(0).cnf.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.asm.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.asm.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.asm_labs.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.cbx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.cmp.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.cmp.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.cmp.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.cmp0.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.eda.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.fit.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.hier_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.hif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.lpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.lpc.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.lpc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.map.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.map.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.map.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.map.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.npp.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.pre_map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.routing.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.rtlv.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.rtlv_sg.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.sgate.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.sgate_sm.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.sld_design_entry.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.smart_action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.sta.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.sta.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.tis_db_list.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.tmw_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/db/xand_gate.vpr.ammdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/incremental_db/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/incremental_db/compiled_partitions/xand_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/incremental_db/compiled_partitions/xand_gate.root_partition.map.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.asm.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.eda.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.fit.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.fit.smsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.fit.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.flow.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.jdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.map.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.map.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.pin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.pof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.sld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.sta.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/output_files/xand_gate.sta.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/simulation/questa/xand_gate.sft" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/simulation/questa/xand_gate.vo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/xand_gate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/xand_gate.qpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/xand_gate.qsf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/xand_gate.qws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xand_gate/xand_gate/xand_gate.v" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/.cmp.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.(0).cnf.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.(0).cnf.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.asm.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.asm.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.asm_labs.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.cbx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.cmp.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.cmp.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.cmp.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.cmp0.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.eda.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.fit.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.hier_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.hif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.lpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.lpc.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.lpc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.map.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.map.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.map.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.map.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.npp.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.pre_map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.routing.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.rtlv.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.rtlv_sg.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.sgate.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.sgate_sm.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.sld_design_entry.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.smart_action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.sta.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.sta.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.tis_db_list.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.tmw_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/db/xnand_gate.vpr.ammdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/incremental_db/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/incremental_db/compiled_partitions/xnand_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/incremental_db/compiled_partitions/xnand_gate.root_partition.map.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.asm.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.eda.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.fit.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.fit.smsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.fit.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.flow.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.jdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.map.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.map.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.pin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.pof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.sld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.sta.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/output_files/xnand_gate.sta.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/simulation/questa/xnand_gate.sft" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/simulation/questa/xnand_gate.vo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/xnand_gate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/xnand_gate.qpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/xnand_gate.qsf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/xnand_gate.qws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnand_gate/xnand_gate/xnand_gate.v" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/.cmp.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.(0).cnf.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.(0).cnf.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.asm.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.asm.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.asm_labs.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.cbx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.cmp.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.cmp.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.cmp.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.cmp0.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.eda.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.fit.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.hier_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.hif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.lpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.lpc.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.lpc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.map.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.map.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.map.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.map.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.npp.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.pre_map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.routing.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.rtlv.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.rtlv_sg.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.sgate.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.sgate_sm.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.sld_design_entry.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.smart_action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.sta.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.sta.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.tis_db_list.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.tmw_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/db/xnor_gate.vpr.ammdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/incremental_db/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/incremental_db/compiled_partitions/xnor_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/incremental_db/compiled_partitions/xnor_gate.root_partition.map.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.asm.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.eda.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.fit.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.fit.smsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.fit.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.flow.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.jdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.map.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.map.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.pin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.pof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.sld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.sta.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/output_files/xnor_gate.sta.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/simulation/questa/xnor_gate.sft" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/simulation/questa/xnor_gate.vo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/xnor_gate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/xnor_gate.qpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/xnor_gate.qsf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/xnor_gate.qws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xnor_gate/xnor_gate/xnor_gate.v" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/.cmp.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.(0).cnf.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.(0).cnf.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.asm.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.asm.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.asm_labs.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.cbx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.cmp.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.cmp.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.cmp.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.cmp0.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.eda.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.fit.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.hier_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.hif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.lpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.lpc.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.lpc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.map.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.map.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.map.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.map.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.npp.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.pre_map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.routing.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.rtlv.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.rtlv_sg.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.sgate.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.sgate_sm.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.sld_design_entry.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.smart_action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.sta.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.sta.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.tis_db_list.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.tmw_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling1/jsevero/xor_gate/xor_gate/db/xor_gate.vpr.ammdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,136 +608,117 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="LOCAL">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="main" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="emago-06-19-25" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Mags19&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jiv04"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Gardner-College/intro-hdl.git&quot;,
-    &quot;accountId&quot;: &quot;853008ca-af8b-4db6-bc63-86e9cf2defab&quot;
-  },
-  &quot;recentNewPullRequestHead&quot;: {
-    &quot;server&quot;: {
-      &quot;useHttp&quot;: false,
-      &quot;host&quot;: &quot;github.com&quot;,
-      &quot;port&quot;: null,
-      &quot;suffix&quot;: null
-    },
-    &quot;owner&quot;: &quot;Gardner-College&quot;,
-    &quot;repository&quot;: &quot;intro-hdl&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Gardner-College/intro-hdl.git",
+    "accountId": "ac64a59a-6092-4f76-9199-0418effeb2c7"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2yhysdLmtS3rHu1kr5RfOgE6DiL" />
+  <component name="ProjectId" id="2zEUG3Xo6eFOzpnXHOHcq2GQlKP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ernie James Mago/PycharmProjects/intro-hdl/gate-level-modeling/emago&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "jsevero",
+    "last_opened_file_path": "C:/Users/Client/PycharmProjects/intro-hdl/gate-level-modeling1/jsevero/xor_gate",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Ernie James Mago\PycharmProjects\intro-hdl\gate-level-modeling\emago" />
+      <recent name="C:\Users\Client\PycharmProjects\intro-hdl\gate-level-modeling1\jsevero\xor_gate" />
+      <recent name="C:\Users\Client\PycharmProjects\intro-hdl\gate-level-modeling1\jsevero\xnor_gate" />
+      <recent name="C:\Users\Client\PycharmProjects\intro-hdl\gate-level-modeling1\jsevero\xnand_gate" />
+      <recent name="C:\Users\Client\PycharmProjects\intro-hdl\gate-level-modeling1\jsevero\xand_gate" />
+      <recent name="C:\Users\Client\PycharmProjects\intro-hdl\gate-level-modeling1\jsevero\or_gate" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="intro-hdl" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf6447be-c625-4631-a4bb-ee1956514c58" name="Changes" comment="" />
-      <created>1750301308070</created>
+      <changelist id="df11c5d6-dac1-40d7-aea5-edfa78dc337a" name="Changes" comment="" />
+      <created>1751295628219</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1750301308070</updated>
+      <updated>1751295628219</updated>
+      <workItem from="1751295629950" duration="113000" />
+      <workItem from="1751295752381" duration="115000" />
+      <workItem from="1751295875328" duration="7000" />
+      <workItem from="1751295918109" duration="43000" />
+      <workItem from="1751295978938" duration="3000" />
+      <workItem from="1751295991488" duration="1358000" />
+      <workItem from="1751297497128" duration="4000" />
+      <workItem from="1751297520035" duration="44000" />
+      <workItem from="1751297605168" duration="83000" />
+      <workItem from="1751297701809" duration="28000" />
+      <workItem from="1751297745371" duration="189000" />
+      <workItem from="1751298127680" duration="32000" />
+      <workItem from="1751298169226" duration="102000" />
+      <workItem from="1751298282421" duration="172000" />
+      <workItem from="1751298456109" duration="4742000" />
     </task>
-    <task id="LOCAL-00001" summary="laboratory exercise #001 intro-HDL">
-      <option name="closed" value="true" />
-      <created>1750829497192</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1750829497192</updated>
-    </task>
-    <task id="LOCAL-00002" summary="laboratory exercise #001 intro-HDL">
-      <option name="closed" value="true" />
-      <created>1750830655738</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1750830655738</updated>
-    </task>
-    <task id="LOCAL-00003" summary="laboratory exercise #001 intro-HDL by Ernie James Mago">
-      <option name="closed" value="true" />
-      <created>1751204462915</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1751204462915</updated>
-    </task>
-    <task id="LOCAL-00004" summary="laboratory exercise #001 intro-HDL by Ernie James Mago">
-      <option name="closed" value="true" />
-      <created>1751207536316</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1751207536316</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="laboratory exercise #001 intro-HDL" />
-    <MESSAGE value="laboratory exercise #001 intro-HDL by Ernie James Mago" />
-    <option name="LAST_COMMIT_MESSAGE" value="laboratory exercise #001 intro-HDL by Ernie James Mago" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

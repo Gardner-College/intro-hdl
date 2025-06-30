@@ -1,0 +1,6 @@
+|nor_gate
+A => jsevero.IN0
+B => jsevero.IN1
+C <= jsevero.DB_MAX_OUTPUT_PORT_TYPE
+
+
