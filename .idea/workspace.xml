@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf6447be-c625-4631-a4bb-ee1956514c58" name="Changes" comment="laboratory exercise #001 intro-HDL by Ernie James Mago">
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/.cmp.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.(0).cnf.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.(0).cnf.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.asm.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.asm.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.asm_labs.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cbx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp0.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.eda.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.fit.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.hier_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.hif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.npp.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.pre_map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.routing.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.rtlv.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.rtlv_sg.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sgate.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sgate_sm.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sld_design_entry.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.smart_action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sta.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sta.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.tis_db_list.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.tmw_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.vpr.ammdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/incremental_db/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/incremental_db/compiled_partitions/xand_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/incremental_db/compiled_partitions/xand_gate.root_partition.map.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.asm.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.eda.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.fit.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.fit.smsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.fit.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.flow.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.jdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.map.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.map.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.pin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.pof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.sld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.sta.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.sta.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/simulation/questa/xand_gate.sft" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/simulation/questa/xand_gate.vo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.qpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.qsf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.qws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.v" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/.cmp.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.(0).cnf.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.(0).cnf.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.asm.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.asm.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.asm_labs.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cbx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp0.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.eda.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.fit.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.hier_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.hif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.logdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.npp.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.pre_map.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.routing.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.rtlv.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.rtlv_sg.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sgate.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sgate_sm.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sld_design_entry.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.smart_action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sta.qmsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sta.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.tis_db_list.ddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.tmw_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.vpr.ammdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/incremental_db/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/incremental_db/compiled_partitions/xnand_gate.db_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/incremental_db/compiled_partitions/xnand_gate.root_partition.map.kpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.asm.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.eda.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.fit.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.fit.smsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.fit.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.flow.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.jdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.map.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.map.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.pin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.pof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.sld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.sta.rpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.sta.summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/simulation/questa/xnand_gate.sft" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/simulation/questa/xnand_gate.vo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.qpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.qsf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.qws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.v" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="emago-06-19-25" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mags19&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Gardner-College/intro-hdl.git&quot;,
+    &quot;accountId&quot;: &quot;853008ca-af8b-4db6-bc63-86e9cf2defab&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;Gardner-College&quot;,
+    &quot;repository&quot;: &quot;intro-hdl&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2yhysdLmtS3rHu1kr5RfOgE6DiL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ernie James Mago/PycharmProjects/intro-hdl/gate-level-modeling/emago&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ernie James Mago\PycharmProjects\intro-hdl\gate-level-modeling\emago" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf6447be-c625-4631-a4bb-ee1956514c58" name="Changes" comment="" />
+      <created>1750301308070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750301308070</updated>
+    </task>
+    <task id="LOCAL-00001" summary="laboratory exercise #001 intro-HDL">
+      <option name="closed" value="true" />
+      <created>1750829497192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750829497192</updated>
+    </task>
+    <task id="LOCAL-00002" summary="laboratory exercise #001 intro-HDL">
+      <option name="closed" value="true" />
+      <created>1750830655738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750830655738</updated>
+    </task>
+    <task id="LOCAL-00003" summary="laboratory exercise #001 intro-HDL by Ernie James Mago">
+      <option name="closed" value="true" />
+      <created>1751204462915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751204462915</updated>
+    </task>
+    <task id="LOCAL-00004" summary="laboratory exercise #001 intro-HDL by Ernie James Mago">
+      <option name="closed" value="true" />
+      <created>1751207536316</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751207536316</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="laboratory exercise #001 intro-HDL" />
+    <MESSAGE value="laboratory exercise #001 intro-HDL by Ernie James Mago" />
+    <option name="LAST_COMMIT_MESSAGE" value="laboratory exercise #001 intro-HDL by Ernie James Mago" />
+  </component>
+</project>

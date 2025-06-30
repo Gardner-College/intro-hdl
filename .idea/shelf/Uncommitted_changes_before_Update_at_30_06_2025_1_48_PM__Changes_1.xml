@@ -1,0 +1,514 @@
+<changelist name="Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1" date="1751262537879" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 30/06/2025 1:48 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.sgate_sm.nvd" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.sgate_sm.nvd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.sgate_sm.nvd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.(0).cnf.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.(0).cnf.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.(0).cnf.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.map.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.map.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.map.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.cmp.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.sta_cmp.4_slow.tdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.sta_cmp.4_slow.tdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.sta_cmp.4_slow.tdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.asm.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.asm.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.asm.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.cmp.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/and_gate.qws" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/and_gate.qws" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.qws" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.cmp.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/xor_gate.pdf" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/xor_gate.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.cmp.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.rtlv.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.rtlv.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.rtlv.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.sgate.nvd" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.sgate.nvd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.sgate.nvd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.rtlv.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.rtlv.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.rtlv.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/not_gate.qws" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/not_gate.qws" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.qws" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.cmp.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.cmp.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.cmp.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.cmp.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.rtlv.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.rtlv.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.rtlv.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.map.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.map.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.map.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.map.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.map.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.map.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.map.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.hif" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.hif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.hif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.sta.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.sta.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.sta.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.map.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.map.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.map.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.cmp.idb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.cmp.idb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.cmp.idb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.cmp.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.cmp.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/nand_gate.qws" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/nand_gate.qws" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.qws" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.rtlv.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.rtlv.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.rtlv.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.cmp.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.asm.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.asm.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.asm.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.sta_cmp.4_slow.tdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.sta_cmp.4_slow.tdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.sta_cmp.4_slow.tdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.map.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.map.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.map.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.asm.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.asm.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.asm.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.asm.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.asm.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.asm.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.asm.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.asm.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.asm.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.rtlv.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.rtlv.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.rtlv.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/incremental_db/compiled_partitions/Or_gate.root_partition.map.kpt" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/incremental_db/compiled_partitions/Or_gate.root_partition.map.kpt" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.root_partition.map.kpt" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.hif" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.hif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.hif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.map.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.map.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.map.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.cmp.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.idb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.idb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.cmp.idb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.cmp.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.cmp.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.cmp.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.cmp.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.map.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.map.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.map.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.cmp.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.map.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.map.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.map.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.root_partition.map.reg_db.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.root_partition.map.reg_db.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.root_partition.map.reg_db.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.hif" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.hif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.hif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/.cmp.kpt" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/.cmp.kpt" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/.cmp.kpt" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.rtlv_sg.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.rtlv_sg.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.rtlv_sg.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.pre_map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.pre_map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.pre_map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.map.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.map.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.map.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.asm.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.asm.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.asm.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.cmp.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.cmp.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.cmp.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.map.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.cmp.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.hif" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.hif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.hif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.pre_map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.pre_map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.pre_map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.sgate.nvd" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.sgate.nvd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.sgate.nvd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.rtlv.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.rtlv.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.rtlv.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.hif" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.hif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.hif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.pre_map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.pre_map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.pre_map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.cmp.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.hif" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.hif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.hif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.(0).cnf.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.(0).cnf.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.(0).cnf.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.rtlv_sg.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.rtlv_sg.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.rtlv_sg.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.(0).cnf.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/db/nand_gate.(0).cnf.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.(0).cnf.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.(0).cnf.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.(0).cnf.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.(0).cnf.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.pre_map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.pre_map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.pre_map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/Or_gate.pdf" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/Or_gate.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.cmp.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.map.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.map.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.map.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.pre_map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.pre_map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.pre_map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/nor_gate.pdf" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/nor_gate.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.cmp.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.cmp.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.cmp.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.asm.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.asm.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.asm.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.sta.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.sta.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.sta.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.(0).cnf.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.(0).cnf.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.(0).cnf.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.pre_map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/db/Or_gate.pre_map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.pre_map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/Or_gate/Or_gate.qws" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/Or_gate/Or_gate.qws" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/Or_gate.qws" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.cmp.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.cmp.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.cmp.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.map.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.map.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.map.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.(0).cnf.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.(0).cnf.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.(0).cnf.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.rtlv.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.rtlv.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.rtlv.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.pre_map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.pre_map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.pre_map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xor_gate.cmp.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.map.rdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nor_gate/db/nor_gate.map.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nor_gate.map.rdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.map.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.(0).cnf.hdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/db/xnor_gate.(0).cnf.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.(0).cnf.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.cmp.cdb" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/db/and_gate.cmp.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.cmp.cdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/not_gate.pdf" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/not_gate.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/and_gate/and_gate.pdf" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/and_gate/and_gate.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/and_gate.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/nand_gate/nand_gate.pdf" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/nand_gate/nand_gate.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/nand_gate.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.hif" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/not_gate/db/not_gate.hif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/not_gate.hif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modeling/emago/xnor_gate/xnor_gate.pdf" />
+    <option name="AFTER_PATH" value="gate-level-modeling/emago/xnor_gate/xnor_gate.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2025_1_48_PM_[Changes]1/xnor_gate.pdf" />
+  </binary>
+</changelist>
