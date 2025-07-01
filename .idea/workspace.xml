@@ -5,144 +5,537 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf6447be-c625-4631-a4bb-ee1956514c58" name="Changes" comment="laboratory exercise #001 intro-HDL by Ernie James Mago">
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/.cmp.kpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.(0).cnf.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.(0).cnf.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.asm.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.asm.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.asm_labs.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cbx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.logdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.cmp0.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.db_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.eda.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.fit.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.hier_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.hif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.logdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.map.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.npp.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.pre_map.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.root_partition.map.reg_db.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.routing.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.rtlv.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.rtlv_sg.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.rtlv_sg_swap.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sgate.nvd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sgate_sm.nvd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sld_design_entry.sci" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sld_design_entry_dsc.sci" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.smart_action.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sta.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sta.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.sta_cmp.4_slow.tdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.tis_db_list.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.tmw_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/db/xand_gate.vpr.ammdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/incremental_db/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/incremental_db/compiled_partitions/xand_gate.db_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/incremental_db/compiled_partitions/xand_gate.root_partition.map.kpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.asm.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.done" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.eda.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.fit.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.fit.smsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.fit.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.flow.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.jdi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.map.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.map.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.pin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.pof" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.sld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.sta.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/output_files/xand_gate.sta.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/simulation/questa/xand_gate.sft" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/simulation/questa/xand_gate.vo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.qpf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.qsf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.qws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xand_gate/xand_gate.v" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/.cmp.kpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.(0).cnf.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.(0).cnf.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.asm.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.asm.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.asm_labs.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cbx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.logdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cmp0.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.db_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.eda.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.fit.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.hier_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.hif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.logdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.map.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.npp.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.pre_map.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.root_partition.map.reg_db.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.routing.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.rtlv.hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.rtlv_sg.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.rtlv_sg_swap.cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sgate.nvd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sgate_sm.nvd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sld_design_entry.sci" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sld_design_entry_dsc.sci" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.smart_action.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sta.qmsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sta.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.sta_cmp.4_slow.tdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.tis_db_list.ddb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.tmw_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/db/xnand_gate.vpr.ammdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/incremental_db/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/incremental_db/compiled_partitions/xnand_gate.db_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/incremental_db/compiled_partitions/xnand_gate.root_partition.map.kpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.asm.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.done" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.eda.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.fit.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.fit.smsg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.fit.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.flow.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.jdi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.map.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.map.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.pin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.pof" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.sld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.sta.rpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/output_files/xnand_gate.sta.summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/simulation/questa/xnand_gate.sft" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/simulation/questa/xnand_gate.vo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.qpf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.qsf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.qws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnand_gate/xnand_gate.v" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.ace_cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.ace_cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.acvq.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.eco.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.ace_cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.ace_cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.eco.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.ace_cmp.cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.ace_cmp.hdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.eco.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/Or_gate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/Or_gate.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/Or_gate.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/Or_gate.qws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/Or_gate.v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/Or_gate.v.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/Or_gate_nativelink_simulation.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.asm.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.asm_labs.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.eda.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.map.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.npp.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.root_partition.map.reg_db.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.routing.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.sgate.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.sgate_sm.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.smart_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.sta.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.sta.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.sta_cmp.4_slow.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.tmw_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/Or_gate.vpr.ammdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/db/prev_cmp_Or_gate.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/incremental_db/compiled_partitions/Or_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/incremental_db/compiled_partitions/Or_gate.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/incremental_db/compiled_partitions/and_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/incremental_db/compiled_partitions/and_gate.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.eda.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.jdi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.jditmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.sld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.sta.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/Or_gate.sta.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.eda.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.jdi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.sld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.sta.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/output_files/and_gate.sta.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/simulation/questa/Or_gate.sft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/simulation/questa/Or_gate.vo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/simulation/questa/Or_gate_run_msim_gate_verilog.do" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/simulation/questa/Or_gate_run_msim_rtl_verilog.do" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/simulation/questa/Or_gate_run_msim_rtl_verilog.do.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/simulation/questa/Or_gate_run_msim_rtl_verilog.do.bak1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/simulation/questa/Or_gate_run_msim_rtl_verilog.do.bak2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/simulation/questa/Or_gate_run_msim_rtl_verilog.do.bak3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/simulation/questa/Or_gate_run_msim_rtl_verilog.do.bak4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/simulation/questa/and_gate.sft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/Or_gate/simulation/questa/and_gate.vo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/and_gate.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/and_gate.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/and_gate.qpf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/and_gate.qpf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/and_gate.qsf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/and_gate.qsf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/and_gate.qws" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/and_gate.qws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/and_gate.v" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/and_gate.v" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/.cmp.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/.cmp.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.(0).cnf.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.(0).cnf.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.(0).cnf.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.(0).cnf.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.asm.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.asm.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.asm.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.asm.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.asm_labs.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.asm_labs.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cbx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cbx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp.idb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp0.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.cmp0.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.eda.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.eda.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.fit.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.fit.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.hier_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.hier_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.hif" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.hif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.lpc.html" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.lpc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.lpc.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.lpc.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.lpc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.lpc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.map.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.map.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.map.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.map.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.map.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.map.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.map.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.map.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.npp.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.npp.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.pre_map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.pre_map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.root_partition.map.reg_db.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.routing.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.routing.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.rtlv.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.rtlv.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.rtlv_sg.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.rtlv_sg.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.rtlv_sg_swap.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sgate.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sgate.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sgate_sm.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sgate_sm.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sld_design_entry.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sld_design_entry.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sld_design_entry_dsc.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.smart_action.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.smart_action.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sta.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sta.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sta.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sta.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sta_cmp.4_slow.tdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.tis_db_list.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.tis_db_list.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.tmw_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.tmw_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.vpr.ammdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/db/and_gate.vpr.ammdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/incremental_db/README" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/incremental_db/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/incremental_db/compiled_partitions/and_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/incremental_db/compiled_partitions/and_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/incremental_db/compiled_partitions/and_gate.root_partition.map.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/incremental_db/compiled_partitions/and_gate.root_partition.map.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.asm.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.asm.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.done" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.done" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.eda.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.eda.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.fit.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.fit.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.fit.smsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.fit.smsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.fit.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.fit.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.flow.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.flow.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.jdi" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.jdi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.map.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.map.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.map.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.map.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.pin" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.pin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.pof" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.pof" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.sld" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.sld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.sta.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.sta.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.sta.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/output_files/and_gate.sta.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/simulation/questa/and_gate.sft" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/simulation/questa/and_gate.sft" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/simulation/questa/and_gate.vo" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/and_gate/simulation/questa/and_gate.vo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/.cmp.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/.cmp.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.(0).cnf.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.(0).cnf.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.(0).cnf.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.(0).cnf.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.asm.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.asm.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.asm.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.asm.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.asm_labs.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.asm_labs.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cbx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cbx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.idb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp0.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.cmp0.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.eda.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.eda.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.fit.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.fit.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.hier_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.hier_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.hif" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.hif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.lpc.html" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.lpc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.lpc.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.lpc.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.lpc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.lpc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.map.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.map.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.map.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.map.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.map.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.map.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.map.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.map.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.npp.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.npp.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.pre_map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.pre_map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.root_partition.map.reg_db.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.routing.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.routing.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.rtlv.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.rtlv.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.rtlv_sg.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.rtlv_sg.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.rtlv_sg_swap.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sgate.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sgate.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sgate_sm.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sgate_sm.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sld_design_entry.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sld_design_entry.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sld_design_entry_dsc.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.smart_action.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.smart_action.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sta.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sta.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sta.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sta.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sta_cmp.4_slow.tdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.tis_db_list.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.tis_db_list.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.tmw_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.tmw_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.vpr.ammdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/nand_gate.vpr.ammdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/db/prev_cmp_nand_gate.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/incremental_db/README" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/incremental_db/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/incremental_db/compiled_partitions/nand_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/incremental_db/compiled_partitions/nand_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/incremental_db/compiled_partitions/nand_gate.root_partition.map.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/incremental_db/compiled_partitions/nand_gate.root_partition.map.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/nand_gate.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/nand_gate.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/nand_gate.qpf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/nand_gate.qpf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/nand_gate.qsf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/nand_gate.qsf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/nand_gate.qws" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/nand_gate.qws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/nand_gate.v" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/nand_gate.v" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/nand_gate.v.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.asm.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.asm.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.done" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.done" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.eda.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.eda.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.fit.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.fit.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.fit.smsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.fit.smsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.fit.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.fit.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.flow.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.flow.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.jdi" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.jdi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.jditmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.map.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.map.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.map.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.map.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.pin" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.pin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.pof" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.pof" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.sld" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.sld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.sta.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.sta.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.sta.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/output_files/nand_gate.sta.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/simulation/questa/nand_gate.sft" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/simulation/questa/nand_gate.sft" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/simulation/questa/nand_gate.vo" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nand_gate/simulation/questa/nand_gate.vo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/.cmp.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/.cmp.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.(0).cnf.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.(0).cnf.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.(0).cnf.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.(0).cnf.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.asm.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.asm.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.asm.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.asm.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.asm_labs.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.asm_labs.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cbx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cbx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.idb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp0.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.cmp0.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.eda.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.eda.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.fit.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.fit.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.hier_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.hier_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.hif" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.hif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.lpc.html" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.lpc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.lpc.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.lpc.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.lpc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.lpc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.map.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.map.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.map.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.map.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.map.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.map.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.map.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.map.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.npp.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.npp.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.pre_map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.pre_map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.root_partition.map.reg_db.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.routing.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.routing.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.rtlv.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.rtlv.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.rtlv_sg.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.rtlv_sg.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.rtlv_sg_swap.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sgate.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sgate.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sgate_sm.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sgate_sm.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sld_design_entry.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sld_design_entry.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sld_design_entry_dsc.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.smart_action.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.smart_action.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sta.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sta.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sta.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sta.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sta_cmp.4_slow.tdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.tis_db_list.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.tis_db_list.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.tmw_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.tmw_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.vpr.ammdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/nor_gate.vpr.ammdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/db/prev_cmp_nor_gate.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/incremental_db/README" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/incremental_db/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/incremental_db/compiled_partitions/nor_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/incremental_db/compiled_partitions/nor_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/incremental_db/compiled_partitions/nor_gate.root_partition.map.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/incremental_db/compiled_partitions/nor_gate.root_partition.map.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/nor_gate.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/nor_gate.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/nor_gate.qpf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/nor_gate.qpf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/nor_gate.qsf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/nor_gate.qsf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/nor_gate.qws" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/nor_gate.qws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/nor_gate.v" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/nor_gate.v" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/nor_gate.v.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.asm.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.asm.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.done" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.done" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.eda.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.eda.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.fit.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.fit.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.fit.smsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.fit.smsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.fit.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.fit.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.flow.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.flow.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.jdi" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.jdi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.jditmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.map.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.map.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.map.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.map.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.pin" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.pin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.pof" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.pof" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.sld" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.sld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.sta.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.sta.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.sta.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/output_files/nor_gate.sta.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/simulation/questa/nor_gate.sft" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/simulation/questa/nor_gate.sft" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/simulation/questa/nor_gate.vo" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/nor_gate/simulation/questa/nor_gate.vo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/.cmp.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/.cmp.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.(0).cnf.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.(0).cnf.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.(0).cnf.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.(0).cnf.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.asm.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.asm.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.asm.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.asm.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.asm_labs.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.asm_labs.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cbx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cbx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp.idb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp0.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.cmp0.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.eda.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.eda.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.fit.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.fit.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.hier_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.hier_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.hif" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.hif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.lpc.html" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.lpc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.lpc.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.lpc.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.lpc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.lpc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.map.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.map.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.map.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.map.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.map.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.map.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.map.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.map.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.npp.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.npp.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.pre_map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.pre_map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.root_partition.map.reg_db.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.routing.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.routing.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.rtlv.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.rtlv.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.rtlv_sg.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.rtlv_sg.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.rtlv_sg_swap.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sgate.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sgate.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sgate_sm.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sgate_sm.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sld_design_entry.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sld_design_entry.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sld_design_entry_dsc.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.smart_action.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.smart_action.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sta.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sta.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sta.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sta.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sta_cmp.4_slow.tdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.tis_db_list.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.tis_db_list.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.tmw_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.tmw_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.vpr.ammdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/db/not_gate.vpr.ammdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/incremental_db/README" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/incremental_db/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/incremental_db/compiled_partitions/not_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/incremental_db/compiled_partitions/not_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/incremental_db/compiled_partitions/not_gate.root_partition.map.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/incremental_db/compiled_partitions/not_gate.root_partition.map.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/not_gate.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/not_gate.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/not_gate.qpf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/not_gate.qpf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/not_gate.qsf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/not_gate.qsf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/not_gate.qws" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/not_gate.qws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/not_gate.v" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/not_gate.v" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.asm.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.asm.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.done" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.done" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.eda.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.eda.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.fit.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.fit.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.fit.smsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.fit.smsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.fit.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.fit.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.flow.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.flow.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.jdi" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.jdi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.map.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.map.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.map.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.map.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.pin" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.pin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.pof" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.pof" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.sld" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.sld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.sta.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.sta.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.sta.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/output_files/not_gate.sta.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/simulation/questa/not_gate.sft" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/simulation/questa/not_gate.sft" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/simulation/questa/not_gate.vo" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/not_gate/simulation/questa/not_gate.vo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/.cmp.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/.cmp.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.(0).cnf.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.(0).cnf.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.(0).cnf.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.(0).cnf.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.asm.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.asm.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.asm.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.asm.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.asm_labs.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.asm_labs.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cbx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cbx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.idb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp0.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cmp0.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.eda.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.eda.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.fit.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.fit.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.hier_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.hier_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.hif" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.hif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.lpc.html" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.lpc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.lpc.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.lpc.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.lpc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.lpc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.map.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.npp.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.npp.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.pre_map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.pre_map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.root_partition.map.reg_db.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.routing.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.routing.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.rtlv.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.rtlv.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.rtlv_sg.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.rtlv_sg.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.rtlv_sg_swap.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sgate.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sgate.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sgate_sm.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sgate_sm.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sld_design_entry.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sld_design_entry.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sld_design_entry_dsc.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.smart_action.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.smart_action.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sta.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sta.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sta.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sta.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sta_cmp.4_slow.tdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.tis_db_list.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.tis_db_list.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.tmw_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.tmw_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.vpr.ammdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/db/xnor_gate.vpr.ammdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/incremental_db/README" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/incremental_db/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/incremental_db/compiled_partitions/xnor_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/incremental_db/compiled_partitions/xnor_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/incremental_db/compiled_partitions/xnor_gate.root_partition.map.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/incremental_db/compiled_partitions/xnor_gate.root_partition.map.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.asm.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.asm.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.done" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.done" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.eda.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.eda.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.fit.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.fit.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.fit.smsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.fit.smsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.fit.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.fit.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.flow.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.flow.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.jdi" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.jdi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.map.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.map.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.map.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.map.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.pin" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.pin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.pof" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.pof" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.sld" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.sld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.sta.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.sta.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.sta.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/output_files/xnor_gate.sta.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/simulation/questa/xnor_gate.sft" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/simulation/questa/xnor_gate.sft" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/simulation/questa/xnor_gate.vo" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/simulation/questa/xnor_gate.vo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/xnor_gate.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/xnor_gate.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/xnor_gate.qpf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/xnor_gate.qpf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/xnor_gate.qsf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/xnor_gate.qsf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/xnor_gate.qws" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/xnor_gate.qws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/xnor_gate.v" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xnor_gate/xnor_gate.v" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/.cmp.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/.cmp.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.(0).cnf.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.(0).cnf.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.(0).cnf.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.(0).cnf.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.asm.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.asm.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.asm.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.asm.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.asm_labs.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.asm_labs.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.atom_map.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cbx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cbx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.idb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp0.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.cmp0.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.eda.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.eda.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.fit.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.fit.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.hier_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.hier_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.hif" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.hif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.lpc.html" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.lpc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.lpc.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.lpc.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.lpc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.lpc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.map.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.map.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.map.logdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.map.logdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.map.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.map.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.map.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.map.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.npp.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.npp.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.pre_map.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.pre_map.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.root_partition.map.reg_db.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.root_partition.map.reg_db.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.routing.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.routing.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.rtlv.hdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.rtlv.hdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.rtlv_sg.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.rtlv_sg.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.rtlv_sg_swap.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.rtlv_sg_swap.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sgate.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sgate.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sgate_sm.nvd" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sgate_sm.nvd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sld_design_entry.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sld_design_entry.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sld_design_entry_dsc.sci" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sld_design_entry_dsc.sci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.smart_action.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.smart_action.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sta.qmsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sta.qmsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sta.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sta.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sta_cmp.4_slow.tdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.sta_cmp.4_slow.tdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.tis_db_list.ddb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.tis_db_list.ddb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.tmw_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.tmw_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.vpr.ammdb" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/db/xor_gate.vpr.ammdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/incremental_db/README" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/incremental_db/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/incremental_db/compiled_partitions/xor_gate.db_info" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/incremental_db/compiled_partitions/xor_gate.db_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/incremental_db/compiled_partitions/xor_gate.root_partition.map.kpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/incremental_db/compiled_partitions/xor_gate.root_partition.map.kpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.asm.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.asm.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.done" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.done" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.eda.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.eda.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.fit.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.fit.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.fit.smsg" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.fit.smsg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.fit.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.fit.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.flow.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.flow.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.jdi" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.jdi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.map.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.map.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.map.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.map.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.pin" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.pin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.pof" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.pof" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.sld" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.sld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.sta.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.sta.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.sta.summary" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/output_files/xor_gate.sta.summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/simulation/questa/xor_gate.sft" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/simulation/questa/xor_gate.sft" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/simulation/questa/xor_gate.vo" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/simulation/questa/xor_gate.vo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/xor_gate.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/xor_gate.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/xor_gate.qpf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/xor_gate.qpf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/xor_gate.qsf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/xor_gate.qsf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/xor_gate.qws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/xor_gate.v" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modeling/emago/xor_gate/xor_gate.v" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +590,7 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2yhysdLmtS3rHu1kr5RfOgE6DiL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -205,8 +599,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ernie James Mago/PycharmProjects/intro-hdl/gate-level-modeling/emago&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;emago-06-19-25&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ernie James Mago/PycharmProjects/control-systems&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
@@ -218,7 +612,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
