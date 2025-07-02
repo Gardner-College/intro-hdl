@@ -1,0 +1,6 @@
+|nor_gate
+A => MarvinL.IN0
+B => MarvinL.IN1
+C <= MarvinL.DB_MAX_OUTPUT_PORT_TYPE
+
+
