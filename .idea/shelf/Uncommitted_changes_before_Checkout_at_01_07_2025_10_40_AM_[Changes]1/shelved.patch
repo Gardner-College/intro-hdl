@@ -1,0 +1,108 @@
+diff --git a/gate-level-modeling/emago/and_gate/db/and_gate.cbx.xml b/gate-level-modeling2/emago/and_gate/db/and_gate.cbx.xml
+rename from gate-level-modeling/emago/and_gate/db/and_gate.cbx.xml
+rename to gate-level-modeling2/emago/and_gate/db/and_gate.cbx.xml
+diff --git a/gate-level-modeling/emago/and_gate/db/and_gate.lpc.txt b/gate-level-modeling2/emago/and_gate/db/and_gate.lpc.txt
+rename from gate-level-modeling/emago/and_gate/db/and_gate.lpc.txt
+rename to gate-level-modeling2/emago/and_gate/db/and_gate.lpc.txt
+diff --git a/gate-level-modeling/emago/xor_gate/db/xor_gate.smart_action.txt b/gate-level-modeling2/emago/xor_gate/db/xor_gate.smart_action.txt
+rename from gate-level-modeling/emago/xor_gate/db/xor_gate.smart_action.txt
+rename to gate-level-modeling2/emago/xor_gate/db/xor_gate.smart_action.txt
+diff --git a/gate-level-modeling/emago/nand_gate/db/nand_gate.lpc.html b/gate-level-modeling2/emago/nand_gate/db/nand_gate.lpc.html
+rename from gate-level-modeling/emago/nand_gate/db/nand_gate.lpc.html
+rename to gate-level-modeling2/emago/nand_gate/db/nand_gate.lpc.html
+diff --git a/gate-level-modeling/emago/nand_gate/db/nand_gate.smart_action.txt b/gate-level-modeling2/emago/nand_gate/db/nand_gate.smart_action.txt
+rename from gate-level-modeling/emago/nand_gate/db/nand_gate.smart_action.txt
+rename to gate-level-modeling2/emago/nand_gate/db/nand_gate.smart_action.txt
+diff --git a/gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.html b/gate-level-modeling2/emago/xand_gate/db/xand_gate.lpc.html
+rename from gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.html
+rename to gate-level-modeling2/emago/xand_gate/db/xand_gate.lpc.html
+diff --git a/gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.txt b/gate-level-modeling2/emago/xand_gate/db/xand_gate.lpc.txt
+rename from gate-level-modeling/emago/xand_gate/db/xand_gate.lpc.txt
+rename to gate-level-modeling2/emago/xand_gate/db/xand_gate.lpc.txt
+diff --git a/gate-level-modeling/emago/nand_gate/db/nand_gate.lpc.txt b/gate-level-modeling2/emago/nand_gate/db/nand_gate.lpc.txt
+rename from gate-level-modeling/emago/nand_gate/db/nand_gate.lpc.txt
+rename to gate-level-modeling2/emago/nand_gate/db/nand_gate.lpc.txt
+diff --git a/gate-level-modeling/emago/xor_gate/db/xor_gate.cbx.xml b/gate-level-modeling2/emago/xor_gate/db/xor_gate.cbx.xml
+rename from gate-level-modeling/emago/xor_gate/db/xor_gate.cbx.xml
+rename to gate-level-modeling2/emago/xor_gate/db/xor_gate.cbx.xml
+diff --git a/gate-level-modeling/emago/xand_gate/db/xand_gate.cbx.xml b/gate-level-modeling2/emago/xand_gate/db/xand_gate.cbx.xml
+rename from gate-level-modeling/emago/xand_gate/db/xand_gate.cbx.xml
+rename to gate-level-modeling2/emago/xand_gate/db/xand_gate.cbx.xml
+diff --git a/gate-level-modeling/emago/nand_gate/db/nand_gate.cbx.xml b/gate-level-modeling2/emago/nand_gate/db/nand_gate.cbx.xml
+rename from gate-level-modeling/emago/nand_gate/db/nand_gate.cbx.xml
+rename to gate-level-modeling2/emago/nand_gate/db/nand_gate.cbx.xml
+diff --git a/gate-level-modeling/emago/and_gate/db/and_gate.lpc.html b/gate-level-modeling2/emago/and_gate/db/and_gate.lpc.html
+rename from gate-level-modeling/emago/and_gate/db/and_gate.lpc.html
+rename to gate-level-modeling2/emago/and_gate/db/and_gate.lpc.html
+diff --git a/gate-level-modeling/emago/xand_gate/db/xand_gate.smart_action.txt b/gate-level-modeling2/emago/xand_gate/db/xand_gate.smart_action.txt
+rename from gate-level-modeling/emago/xand_gate/db/xand_gate.smart_action.txt
+rename to gate-level-modeling2/emago/xand_gate/db/xand_gate.smart_action.txt
+diff --git a/gate-level-modeling/emago/xnor_gate/db/xnor_gate.cbx.xml b/gate-level-modeling2/emago/xnor_gate/db/xnor_gate.cbx.xml
+rename from gate-level-modeling/emago/xnor_gate/db/xnor_gate.cbx.xml
+rename to gate-level-modeling2/emago/xnor_gate/db/xnor_gate.cbx.xml
+diff --git a/gate-level-modeling/emago/and_gate/db/and_gate.smart_action.txt b/gate-level-modeling2/emago/and_gate/db/and_gate.smart_action.txt
+rename from gate-level-modeling/emago/and_gate/db/and_gate.smart_action.txt
+rename to gate-level-modeling2/emago/and_gate/db/and_gate.smart_action.txt
+diff --git a/gate-level-modeling/emago/xnor_gate/db/xnor_gate.lpc.html b/gate-level-modeling2/emago/xnor_gate/db/xnor_gate.lpc.html
+rename from gate-level-modeling/emago/xnor_gate/db/xnor_gate.lpc.html
+rename to gate-level-modeling2/emago/xnor_gate/db/xnor_gate.lpc.html
+diff --git a/gate-level-modeling/emago/Or_gate/db/Or_gate.cbx.xml b/gate-level-modeling2/emago/Or_gate/db/Or_gate.cbx.xml
+rename from gate-level-modeling/emago/Or_gate/db/Or_gate.cbx.xml
+rename to gate-level-modeling2/emago/Or_gate/db/Or_gate.cbx.xml
+diff --git a/gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.txt b/gate-level-modeling2/emago/xnand_gate/db/xnand_gate.lpc.txt
+rename from gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.txt
+rename to gate-level-modeling2/emago/xnand_gate/db/xnand_gate.lpc.txt
+diff --git a/gate-level-modeling/emago/xnor_gate/db/xnor_gate.lpc.txt b/gate-level-modeling2/emago/xnor_gate/db/xnor_gate.lpc.txt
+rename from gate-level-modeling/emago/xnor_gate/db/xnor_gate.lpc.txt
+rename to gate-level-modeling2/emago/xnor_gate/db/xnor_gate.lpc.txt
+diff --git a/gate-level-modeling/emago/xnor_gate/db/xnor_gate.smart_action.txt b/gate-level-modeling2/emago/xnor_gate/db/xnor_gate.smart_action.txt
+rename from gate-level-modeling/emago/xnor_gate/db/xnor_gate.smart_action.txt
+rename to gate-level-modeling2/emago/xnor_gate/db/xnor_gate.smart_action.txt
+diff --git a/gate-level-modeling/emago/xnand_gate/db/xnand_gate.smart_action.txt b/gate-level-modeling2/emago/xnand_gate/db/xnand_gate.smart_action.txt
+rename from gate-level-modeling/emago/xnand_gate/db/xnand_gate.smart_action.txt
+rename to gate-level-modeling2/emago/xnand_gate/db/xnand_gate.smart_action.txt
+diff --git a/gate-level-modeling/emago/xor_gate/db/xor_gate.lpc.html b/gate-level-modeling2/emago/xor_gate/db/xor_gate.lpc.html
+rename from gate-level-modeling/emago/xor_gate/db/xor_gate.lpc.html
+rename to gate-level-modeling2/emago/xor_gate/db/xor_gate.lpc.html
+diff --git a/gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.html b/gate-level-modeling2/emago/xnand_gate/db/xnand_gate.lpc.html
+rename from gate-level-modeling/emago/xnand_gate/db/xnand_gate.lpc.html
+rename to gate-level-modeling2/emago/xnand_gate/db/xnand_gate.lpc.html
+diff --git a/gate-level-modeling/emago/xor_gate/db/xor_gate.lpc.txt b/gate-level-modeling2/emago/xor_gate/db/xor_gate.lpc.txt
+rename from gate-level-modeling/emago/xor_gate/db/xor_gate.lpc.txt
+rename to gate-level-modeling2/emago/xor_gate/db/xor_gate.lpc.txt
+diff --git a/gate-level-modeling/emago/xnand_gate/db/xnand_gate.cbx.xml b/gate-level-modeling2/emago/xnand_gate/db/xnand_gate.cbx.xml
+rename from gate-level-modeling/emago/xnand_gate/db/xnand_gate.cbx.xml
+rename to gate-level-modeling2/emago/xnand_gate/db/xnand_gate.cbx.xml
+diff --git a/gate-level-modeling/emago/Or_gate/db/Or_gate.lpc.html b/gate-level-modeling2/emago/Or_gate/db/Or_gate.lpc.html
+rename from gate-level-modeling/emago/Or_gate/db/Or_gate.lpc.html
+rename to gate-level-modeling2/emago/Or_gate/db/Or_gate.lpc.html
+diff --git a/gate-level-modeling/emago/nor_gate/db/nor_gate.smart_action.txt b/gate-level-modeling2/emago/nor_gate/db/nor_gate.smart_action.txt
+rename from gate-level-modeling/emago/nor_gate/db/nor_gate.smart_action.txt
+rename to gate-level-modeling2/emago/nor_gate/db/nor_gate.smart_action.txt
+diff --git a/gate-level-modeling/emago/Or_gate/db/Or_gate.smart_action.txt b/gate-level-modeling2/emago/Or_gate/db/Or_gate.smart_action.txt
+rename from gate-level-modeling/emago/Or_gate/db/Or_gate.smart_action.txt
+rename to gate-level-modeling2/emago/Or_gate/db/Or_gate.smart_action.txt
+diff --git a/gate-level-modeling/emago/Or_gate/db/Or_gate.lpc.txt b/gate-level-modeling2/emago/Or_gate/db/Or_gate.lpc.txt
+rename from gate-level-modeling/emago/Or_gate/db/Or_gate.lpc.txt
+rename to gate-level-modeling2/emago/Or_gate/db/Or_gate.lpc.txt
+diff --git a/gate-level-modeling/emago/not_gate/db/not_gate.cbx.xml b/gate-level-modeling2/emago/not_gate/db/not_gate.cbx.xml
+rename from gate-level-modeling/emago/not_gate/db/not_gate.cbx.xml
+rename to gate-level-modeling2/emago/not_gate/db/not_gate.cbx.xml
+diff --git a/gate-level-modeling/emago/not_gate/db/not_gate.smart_action.txt b/gate-level-modeling2/emago/not_gate/db/not_gate.smart_action.txt
+rename from gate-level-modeling/emago/not_gate/db/not_gate.smart_action.txt
+rename to gate-level-modeling2/emago/not_gate/db/not_gate.smart_action.txt
+diff --git a/gate-level-modeling/emago/nor_gate/db/nor_gate.lpc.html b/gate-level-modeling2/emago/nor_gate/db/nor_gate.lpc.html
+rename from gate-level-modeling/emago/nor_gate/db/nor_gate.lpc.html
+rename to gate-level-modeling2/emago/nor_gate/db/nor_gate.lpc.html
+diff --git a/gate-level-modeling/emago/not_gate/db/not_gate.lpc.html b/gate-level-modeling2/emago/not_gate/db/not_gate.lpc.html
+rename from gate-level-modeling/emago/not_gate/db/not_gate.lpc.html
+rename to gate-level-modeling2/emago/not_gate/db/not_gate.lpc.html
+diff --git a/gate-level-modeling/emago/nor_gate/db/nor_gate.cbx.xml b/gate-level-modeling2/emago/nor_gate/db/nor_gate.cbx.xml
+rename from gate-level-modeling/emago/nor_gate/db/nor_gate.cbx.xml
+rename to gate-level-modeling2/emago/nor_gate/db/nor_gate.cbx.xml
+diff --git a/gate-level-modeling/emago/nor_gate/db/nor_gate.lpc.txt b/gate-level-modeling2/emago/nor_gate/db/nor_gate.lpc.txt
+rename from gate-level-modeling/emago/nor_gate/db/nor_gate.lpc.txt
+rename to gate-level-modeling2/emago/nor_gate/db/nor_gate.lpc.txt
+diff --git a/gate-level-modeling/emago/not_gate/db/not_gate.lpc.txt b/gate-level-modeling2/emago/not_gate/db/not_gate.lpc.txt
+rename from gate-level-modeling/emago/not_gate/db/not_gate.lpc.txt
+rename to gate-level-modeling2/emago/not_gate/db/not_gate.lpc.txt
