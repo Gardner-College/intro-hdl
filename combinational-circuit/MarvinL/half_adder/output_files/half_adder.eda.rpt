@@ -1,5 +1,5 @@
 EDA Netlist Writer report for half_adder
-Thu Jul  3 21:18:12 2025
+Thu Jul  3 21:29:45 2025
 Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
 
 
@@ -37,7 +37,7 @@ on the Quartus Prime software download page.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Thu Jul  3 21:18:12 2025 ;
+; EDA Netlist Writer Status ; Successful - Thu Jul  3 21:29:45 2025 ;
 ; Revision Name             ; half_adder                            ;
 ; Top-level Entity Name     ; half_adder                            ;
 ; Family                    ; MAX V                                 ;
@@ -81,14 +81,14 @@ on the Quartus Prime software download page.
 Info: *******************************************************************
 Info: Running Quartus Prime EDA Netlist Writer
     Info: Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
-    Info: Processing started: Thu Jul  3 21:18:11 2025
+    Info: Processing started: Thu Jul  3 21:29:45 2025
 Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off half_adder -c half_adder
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (204019): Generated file half_adder.vo in folder "C:/Users/Miranda Family/PycharmProjects/intro-hdl/combinational-circuit/MarvinL/half_adder/simulation/questa/" for EDA simulation tool
 Info: Quartus Prime EDA Netlist Writer was successful. 0 errors, 1 warning
     Info: Peak virtual memory: 4627 megabytes
-    Info: Processing ended: Thu Jul  3 21:18:12 2025
-    Info: Elapsed time: 00:00:01
+    Info: Processing ended: Thu Jul  3 21:29:45 2025
+    Info: Elapsed time: 00:00:00
     Info: Total CPU time (on all processors): 00:00:01
 
 
