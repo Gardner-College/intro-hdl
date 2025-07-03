@@ -1,0 +1,11 @@
+Fitter Status : Successful - Thu Jul  3 11:52:16 2025
+Quartus Prime Version : 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+Revision Name : half_adder
+Top-level Entity Name : half_adder
+Family : MAX V
+Device : 5M40ZM64C4
+Timing Models : Final
+Total logic elements : 2 / 40 ( 5 % )
+Total pins : 4 / 30 ( 13 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
