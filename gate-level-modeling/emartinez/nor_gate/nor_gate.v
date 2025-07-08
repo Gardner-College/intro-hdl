@@ -1,9 +1,9 @@
-    //-----------------------------------------------------
+//-----------------------------------------------------
 // Laboratory Experiment 001
 // Design Name : nor_gate
 // File Name : nor_gate.v
 // Function : Implement AND logic gate
-// Designer: eric villaceran
+// Designer: Ernesto Martinez
 // Period: Term 3 AY24-25
 //-----------------------------------------------------
 
@@ -13,6 +13,6 @@ module nor_gate(
   );
   
   // Gate type
-  nor  evillaceran (C, A, B);
+  nor emartinez (C, A, B);
 
 endmodule

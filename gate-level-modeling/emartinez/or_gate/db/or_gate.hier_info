@@ -1,0 +1,6 @@
+|or_gate
+A => emartinez.IN0
+B => emartinez.IN1
+C <= emartinez.DB_MAX_OUTPUT_PORT_TYPE
+
+

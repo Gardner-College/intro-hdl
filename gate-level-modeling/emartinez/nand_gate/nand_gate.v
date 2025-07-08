@@ -1,18 +1,18 @@
-    //-----------------------------------------------------
+//-----------------------------------------------------
 // Laboratory Experiment 001
-// Design Name : nor_gate
-// File Name : nor_gate.v
+// Design Name : nand_gate
+// File Name : nand_gate.v
 // Function : Implement AND logic gate
-// Designer: eric villaceran
+// Designer: Ernesto Martinez
 // Period: Term 3 AY24-25
 //-----------------------------------------------------
 
-module nor_gate(
+module nand_gate(
   input A,B,
   output C
   );
   
   // Gate type
-  nor  evillaceran (C, A, B);
+  nand  emartinez (C, A, B);
 
 endmodule
