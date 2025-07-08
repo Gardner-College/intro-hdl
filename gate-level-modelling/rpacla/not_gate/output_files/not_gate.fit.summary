@@ -1,0 +1,11 @@
+Fitter Status : Successful - Tue Jul  8 16:35:07 2025
+Quartus Prime Version : 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+Revision Name : not_gate
+Top-level Entity Name : not_gate
+Family : MAX V
+Device : 5M40ZM64C4
+Timing Models : Final
+Total logic elements : 0 / 40 ( 0 % )
+Total pins : 2 / 30 ( 7 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
