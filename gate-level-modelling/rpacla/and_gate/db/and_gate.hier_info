@@ -1,0 +1,6 @@
+|and_gate
+A => rpacla.IN0
+B => rpacla.IN1
+C <= rpacla.DB_MAX_OUTPUT_PORT_TYPE
+
+
