@@ -1,0 +1,174 @@
+// Copyright (C) 2025  Altera Corporation. All rights reserved.
+// Your use of Altera Corporation's design tools, logic functions 
+// and other software and tools, and any partner logic 
+// functions, and any output files from any of the foregoing 
+// (including device programming or simulation files), and any 
+// associated documentation or information are expressly subject 
+// to the terms and conditions of the Altera Program License 
+// Subscription Agreement, the Altera Quartus Prime License Agreement,
+// the Altera IP License Agreement, or other applicable license
+// agreement, including, without limitation, that your use is for
+// the sole purpose of programming logic devices manufactured by
+// Altera and sold by Altera or its authorized distributors.  Please
+// refer to the Altera Software License Subscription Agreements 
+// on the Quartus Prime software download page.
+
+// VENDOR "Altera"
+// PROGRAM "Quartus Prime"
+// VERSION "Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition"
+
+// DATE "07/09/2025 22:42:06"
+
+// 
+// Device: Altera 5M40ZM64C4 Package MBGA64
+// 
+
+// 
+// This Verilog file should be used for Questa Intel FPGA (Verilog) only
+// 
+
+`timescale 1 ps/ 1 ps
+
+module half_adder (
+	S,
+	C,
+	A,
+	B);
+output 	S;
+output 	C;
+input 	A;
+input 	B;
+
+// Design Ports Information
+
+
+wire gnd;
+wire vcc;
+wire unknown;
+
+assign gnd = 1'b0;
+assign vcc = 1'b1;
+assign unknown = 1'bx;
+
+tri1 devclrn;
+tri1 devpor;
+tri1 devoe;
+wire \B~combout ;
+wire \A~combout ;
+wire \S~0_combout ;
+wire \C~0_combout ;
+
+
+// Location: PIN_E2,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: Default
+maxv_io \B~I (
+	.datain(gnd),
+	.oe(gnd),
+	.combout(\B~combout ),
+	.padio(B));
+// synopsys translate_off
+defparam \B~I .operation_mode = "input";
+// synopsys translate_on
+
+// Location: PIN_F5,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: Default
+maxv_io \A~I (
+	.datain(gnd),
+	.oe(gnd),
+	.combout(\A~combout ),
+	.padio(A));
+// synopsys translate_off
+defparam \A~I .operation_mode = "input";
+// synopsys translate_on
+
+// Location: LC_X5_Y2_N4
+maxv_lcell \S~0 (
+// Equation(s):
+// \S~0_combout  = ((\B~combout  $ (\A~combout )))
+
+	.clk(gnd),
+	.dataa(vcc),
+	.datab(vcc),
+	.datac(\B~combout ),
+	.datad(\A~combout ),
+	.aclr(gnd),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(vcc),
+	.cin(gnd),
+	.cin0(gnd),
+	.cin1(vcc),
+	.inverta(gnd),
+	.regcascin(gnd),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.combout(\S~0_combout ),
+	.regout(),
+	.cout(),
+	.cout0(),
+	.cout1());
+// synopsys translate_off
+defparam \S~0 .lut_mask = "0ff0";
+defparam \S~0 .operation_mode = "normal";
+defparam \S~0 .output_mode = "comb_only";
+defparam \S~0 .register_cascade_mode = "off";
+defparam \S~0 .sum_lutc_input = "datac";
+defparam \S~0 .synch_mode = "off";
+// synopsys translate_on
+
+// Location: LC_X5_Y2_N2
+maxv_lcell \C~0 (
+// Equation(s):
+// \C~0_combout  = (((\B~combout  & \A~combout )))
+
+	.clk(gnd),
+	.dataa(vcc),
+	.datab(vcc),
+	.datac(\B~combout ),
+	.datad(\A~combout ),
+	.aclr(gnd),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(vcc),
+	.cin(gnd),
+	.cin0(gnd),
+	.cin1(vcc),
+	.inverta(gnd),
+	.regcascin(gnd),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.combout(\C~0_combout ),
+	.regout(),
+	.cout(),
+	.cout0(),
+	.cout1());
+// synopsys translate_off
+defparam \C~0 .lut_mask = "f000";
+defparam \C~0 .operation_mode = "normal";
+defparam \C~0 .output_mode = "comb_only";
+defparam \C~0 .register_cascade_mode = "off";
+defparam \C~0 .sum_lutc_input = "datac";
+defparam \C~0 .synch_mode = "off";
+// synopsys translate_on
+
+// Location: PIN_D8,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: 16mA
+maxv_io \S~I (
+	.datain(\S~0_combout ),
+	.oe(vcc),
+	.combout(),
+	.padio(S));
+// synopsys translate_off
+defparam \S~I .operation_mode = "output";
+// synopsys translate_on
+
+// Location: PIN_G7,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: 16mA
+maxv_io \C~I (
+	.datain(\C~0_combout ),
+	.oe(vcc),
+	.combout(),
+	.padio(C));
+// synopsys translate_off
+defparam \C~I .operation_mode = "output";
+// synopsys translate_on
+
+endmodule
