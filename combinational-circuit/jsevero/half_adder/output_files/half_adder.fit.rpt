@@ -1,5 +1,5 @@
 Fitter report for half_adder
-Wed Jul  9 22:42:03 2025
+Wed Jul  9 23:44:14 2025
 Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
 
 
@@ -54,7 +54,7 @@ on the Quartus Prime software download page.
 +-------------------------------------------------------------------------+
 ; Fitter Summary                                                          ;
 +-----------------------+-------------------------------------------------+
-; Fitter Status         ; Successful - Wed Jul  9 22:42:03 2025           ;
+; Fitter Status         ; Successful - Wed Jul  9 23:44:14 2025           ;
 ; Quartus Prime Version ; 24.1std.0 Build 1077 03/04/2025 SC Lite Edition ;
 ; Revision Name         ; half_adder                                      ;
 ; Top-level Entity Name ; half_adder                                      ;
@@ -454,7 +454,7 @@ Info (176215): I/O bank details before I/O pin placement
     Info (176214): Statistics of I/O banks
         Info (176213): I/O bank number 1 does not use VREF pins and has undetermined VCCIO pins. 0 total pin(s) used --  17 pins available
         Info (176213): I/O bank number 2 does not use VREF pins and has undetermined VCCIO pins. 0 total pin(s) used --  13 pins available
-Info (171121): Fitter preparation operations ending: elapsed time is 00:00:01
+Info (171121): Fitter preparation operations ending: elapsed time is 00:00:00
 Info (14896): Fitter has disabled Advanced Physical Optimization because it is not supported for the current family.
 Info (170189): Fitter placement preparation operations beginning
 Info (170190): Fitter placement preparation operations ending: elapsed time is 00:00:00
@@ -473,9 +473,9 @@ Info (11218): Fitter post-fit operations ending: elapsed time is 00:00:00
 Warning (169174): The Reserve All Unused Pins setting has not been specified, and will default to 'As output driving ground'.
 Info (144001): Generated suppressed messages file C:/Users/Client/PycharmProjects/intro-hdl/combinational-circuit/jsevero/half_adder/output_files/half_adder.fit.smsg
 Info: Quartus Prime Fitter was successful. 0 errors, 7 warnings
-    Info: Peak virtual memory: 5893 megabytes
-    Info: Processing ended: Wed Jul  9 22:42:03 2025
-    Info: Elapsed time: 00:00:01
+    Info: Peak virtual memory: 5881 megabytes
+    Info: Processing ended: Wed Jul  9 23:44:14 2025
+    Info: Elapsed time: 00:00:03
     Info: Total CPU time (on all processors): 00:00:01
 
 
