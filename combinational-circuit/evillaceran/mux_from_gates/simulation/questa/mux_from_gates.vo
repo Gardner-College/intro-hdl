@@ -1,0 +1,214 @@
+// Copyright (C) 2025  Altera Corporation. All rights reserved.
+// Your use of Altera Corporation's design tools, logic functions 
+// and other software and tools, and any partner logic 
+// functions, and any output files from any of the foregoing 
+// (including device programming or simulation files), and any 
+// associated documentation or information are expressly subject 
+// to the terms and conditions of the Altera Program License 
+// Subscription Agreement, the Altera Quartus Prime License Agreement,
+// the Altera IP License Agreement, or other applicable license
+// agreement, including, without limitation, that your use is for
+// the sole purpose of programming logic devices manufactured by
+// Altera and sold by Altera or its authorized distributors.  Please
+// refer to the Altera Software License Subscription Agreements 
+// on the Quartus Prime software download page.
+
+// VENDOR "Altera"
+// PROGRAM "Quartus Prime"
+// VERSION "Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition"
+
+// DATE "07/10/2025 11:28:03"
+
+// 
+// Device: Altera 5M40ZM64C4 Package MBGA64
+// 
+
+// 
+// This Verilog file should be used for Questa Intel FPGA (Verilog) only
+// 
+
+`timescale 1 ps/ 1 ps
+
+module mux_from_gates (
+	c0,
+	c1,
+	c2,
+	c3,
+	A,
+	B,
+	Y);
+input 	c0;
+input 	c1;
+input 	c2;
+input 	c3;
+input 	A;
+input 	B;
+output 	Y;
+
+// Design Ports Information
+
+
+wire gnd;
+wire vcc;
+wire unknown;
+
+assign gnd = 1'b0;
+assign vcc = 1'b1;
+assign unknown = 1'bx;
+
+tri1 devclrn;
+tri1 devpor;
+tri1 devoe;
+wire \c2~combout ;
+wire \A~combout ;
+wire \B~combout ;
+wire \c0~combout ;
+wire \c1~combout ;
+wire \WideOr0~0_combout ;
+wire \c3~combout ;
+wire \WideOr0~1_combout ;
+
+
+// Location: PIN_H7,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: Default
+maxv_io \c2~I (
+	.datain(gnd),
+	.oe(gnd),
+	.combout(\c2~combout ),
+	.padio(c2));
+// synopsys translate_off
+defparam \c2~I .operation_mode = "input";
+// synopsys translate_on
+
+// Location: PIN_F1,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: Default
+maxv_io \A~I (
+	.datain(gnd),
+	.oe(gnd),
+	.combout(\A~combout ),
+	.padio(A));
+// synopsys translate_off
+defparam \A~I .operation_mode = "input";
+// synopsys translate_on
+
+// Location: PIN_E2,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: Default
+maxv_io \B~I (
+	.datain(gnd),
+	.oe(gnd),
+	.combout(\B~combout ),
+	.padio(B));
+// synopsys translate_off
+defparam \B~I .operation_mode = "input";
+// synopsys translate_on
+
+// Location: PIN_D8,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: Default
+maxv_io \c0~I (
+	.datain(gnd),
+	.oe(gnd),
+	.combout(\c0~combout ),
+	.padio(c0));
+// synopsys translate_off
+defparam \c0~I .operation_mode = "input";
+// synopsys translate_on
+
+// Location: PIN_F6,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: Default
+maxv_io \c1~I (
+	.datain(gnd),
+	.oe(gnd),
+	.combout(\c1~combout ),
+	.padio(c1));
+// synopsys translate_off
+defparam \c1~I .operation_mode = "input";
+// synopsys translate_on
+
+// Location: LC_X5_Y2_N6
+maxv_lcell \WideOr0~0 (
+// Equation(s):
+// \WideOr0~0_combout  = (\B~combout  & ((\A~combout ) # ((\c1~combout )))) # (!\B~combout  & (!\A~combout  & (\c0~combout )))
+
+	.clk(gnd),
+	.dataa(\B~combout ),
+	.datab(\A~combout ),
+	.datac(\c0~combout ),
+	.datad(\c1~combout ),
+	.aclr(gnd),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(vcc),
+	.cin(gnd),
+	.cin0(gnd),
+	.cin1(vcc),
+	.inverta(gnd),
+	.regcascin(gnd),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.combout(\WideOr0~0_combout ),
+	.regout(),
+	.cout(),
+	.cout0(),
+	.cout1());
+// synopsys translate_off
+defparam \WideOr0~0 .lut_mask = "ba98";
+defparam \WideOr0~0 .operation_mode = "normal";
+defparam \WideOr0~0 .output_mode = "comb_only";
+defparam \WideOr0~0 .register_cascade_mode = "off";
+defparam \WideOr0~0 .sum_lutc_input = "datac";
+defparam \WideOr0~0 .synch_mode = "off";
+// synopsys translate_on
+
+// Location: PIN_H8,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: Default
+maxv_io \c3~I (
+	.datain(gnd),
+	.oe(gnd),
+	.combout(\c3~combout ),
+	.padio(c3));
+// synopsys translate_off
+defparam \c3~I .operation_mode = "input";
+// synopsys translate_on
+
+// Location: LC_X5_Y2_N4
+maxv_lcell \WideOr0~1 (
+// Equation(s):
+// \WideOr0~1_combout  = (\A~combout  & ((\WideOr0~0_combout  & ((\c3~combout ))) # (!\WideOr0~0_combout  & (\c2~combout )))) # (!\A~combout  & (((\WideOr0~0_combout ))))
+
+	.clk(gnd),
+	.dataa(\c2~combout ),
+	.datab(\A~combout ),
+	.datac(\WideOr0~0_combout ),
+	.datad(\c3~combout ),
+	.aclr(gnd),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(vcc),
+	.cin(gnd),
+	.cin0(gnd),
+	.cin1(vcc),
+	.inverta(gnd),
+	.regcascin(gnd),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.combout(\WideOr0~1_combout ),
+	.regout(),
+	.cout(),
+	.cout0(),
+	.cout1());
+// synopsys translate_off
+defparam \WideOr0~1 .lut_mask = "f838";
+defparam \WideOr0~1 .operation_mode = "normal";
+defparam \WideOr0~1 .output_mode = "comb_only";
+defparam \WideOr0~1 .register_cascade_mode = "off";
+defparam \WideOr0~1 .sum_lutc_input = "datac";
+defparam \WideOr0~1 .synch_mode = "off";
+// synopsys translate_on
+
+// Location: PIN_C5,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: 16mA
+maxv_io \Y~I (
+	.datain(\WideOr0~1_combout ),
+	.oe(vcc),
+	.combout(),
+	.padio(Y));
+// synopsys translate_off
+defparam \Y~I .operation_mode = "output";
+// synopsys translate_on
+
+endmodule
