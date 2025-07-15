@@ -3,7 +3,7 @@
 // Design Name : multiplexer
 // File Name : mux.v
 // Function : Implement multiplexer
-// Designer: Dave DeBien
+// Designer: Runel Pacla
 // Period: Term 3 AY24-25
 //-----------------------------------------------------
 

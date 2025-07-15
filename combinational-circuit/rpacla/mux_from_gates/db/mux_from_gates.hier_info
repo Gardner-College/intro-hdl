@@ -1,16 +1,3 @@
 |mux_from_gates
-c0 => WideAnd0.IN0
-c1 => WideAnd1.IN0
-c2 => WideAnd2.IN0
-c3 => WideAnd3.IN0
-A => WideAnd2.IN1
-A => WideAnd3.IN1
-A => WideAnd0.IN1
-A => WideAnd1.IN1
-B => WideAnd1.IN2
-B => WideAnd3.IN2
-B => WideAnd0.IN2
-B => WideAnd2.IN2
-Y <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
 
 
