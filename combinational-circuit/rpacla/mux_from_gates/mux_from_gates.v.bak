@@ -3,13 +3,13 @@
 // Design Name : multiplexer
 // File Name : mux.v
 // Function : Implement multiplexer
-// Designer: Marvin D. Llames
+// Designer: Runel Pacla
 // Period: Term 3 AY24-25
 //-----------------------------------------------------
 
-module mux_from_gates ();
-reg c0,c1,c2,c3,A,B; 
-wire Y; 
+module mux_from_gates (c0,c1,c2,c3,A,B,Y);
+input c0,c1,c2,c3,A,B; 
+output Y; 
 
 //Invert the sel signals 
 not (a_inv, A); 
