@@ -1,0 +1,6 @@
+|xand_gate
+A => xor1.IN0
+B => xor1.IN1
+C <= xor1.DB_MAX_OUTPUT_PORT_TYPE
+
+
