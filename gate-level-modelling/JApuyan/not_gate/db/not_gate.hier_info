@@ -1,0 +1,5 @@
+|not_gate
+A => B.DATAIN
+B <= A.DB_MAX_OUTPUT_PORT_TYPE
+
+
