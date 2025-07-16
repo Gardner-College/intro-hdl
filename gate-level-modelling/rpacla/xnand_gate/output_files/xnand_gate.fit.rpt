@@ -1,5 +1,5 @@
 Fitter report for xnand_gate
-Tue Jul  8 16:41:27 2025
+Tue Jul  8 15:49:13 2025
 Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
 
 
@@ -54,7 +54,7 @@ on the Quartus Prime software download page.
 +-------------------------------------------------------------------------+
 ; Fitter Summary                                                          ;
 +-----------------------+-------------------------------------------------+
-; Fitter Status         ; Successful - Tue Jul  8 16:41:27 2025           ;
+; Fitter Status         ; Successful - Tue Jul  8 15:49:13 2025           ;
 ; Quartus Prime Version ; 24.1std.0 Build 1077 03/04/2025 SC Lite Edition ;
 ; Revision Name         ; xnand_gate                                      ;
 ; Top-level Entity Name ; xnand_gate                                      ;
@@ -469,7 +469,7 @@ Warning (169174): The Reserve All Unused Pins setting has not been specified, an
 Info (144001): Generated suppressed messages file C:/Users/Win11/PycharmProjects/intro-hdl/gate-level-modelling/rpacla/xnand_gate/output_files/xnand_gate.fit.smsg
 Info: Quartus Prime Fitter was successful. 0 errors, 7 warnings
     Info: Peak virtual memory: 5091 megabytes
-    Info: Processing ended: Tue Jul  8 16:41:27 2025
+    Info: Processing ended: Tue Jul  8 15:49:13 2025
     Info: Elapsed time: 00:00:02
     Info: Total CPU time (on all processors): 00:00:02
 

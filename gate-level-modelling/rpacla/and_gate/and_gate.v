@@ -3,7 +3,7 @@
 // Design Name : and_gate
 // File Name : and_gate.v
 // Function : Implement AND logic gate
-// Designer: runel pacla
+// Designer: Runel Pacla
 // Period: Term 3 AY24-25
 //-----------------------------------------------------
 
