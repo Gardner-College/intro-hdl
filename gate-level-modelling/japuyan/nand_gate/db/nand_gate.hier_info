@@ -1,0 +1,6 @@
+|nand_gate
+A => japuyan.IN0
+B => japuyan.IN1
+C <= japuyan.DB_MAX_OUTPUT_PORT_TYPE
+
+

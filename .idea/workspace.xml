@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52422360-a983-4b69-9c6a-79451ecdaa47" name="Changes" comment="machine problem hdl- runel">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/and_gate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/and_gate.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/and_gate.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/and_gate.v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.asm.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.asm_labs.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.cmp.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.eda.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.map.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.npp.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.root_partition.map.reg_db.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.routing.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.sgate.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.sgate_sm.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.smart_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.sta.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.sta.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.sta_cmp.4_slow.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.tmw_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/db/and_gate.vpr.ammdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/incremental_db/compiled_partitions/and_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/incremental_db/compiled_partitions/and_gate.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.eda.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.jdi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.sld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.sta.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/output_files/and_gate.sta.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/simulation/questa/and_gate.sft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/and_gate/simulation/questa/and_gate.vo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.asm.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.asm_labs.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.cmp.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.eda.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.map.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.npp.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.root_partition.map.reg_db.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.routing.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.sgate.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.sgate_sm.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.smart_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.sta.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.sta.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.sta_cmp.4_slow.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.tmw_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/db/nand_gate.vpr.ammdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/incremental_db/compiled_partitions/nand_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/incremental_db/compiled_partitions/nand_gate.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/nand_gate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/nand_gate.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/nand_gate.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/nand_gate.qws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/nand_gate.v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.eda.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.jdi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.sld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.sta.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/output_files/nand_gate.sta.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/simulation/questa/nand_gate.sft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nand_gate/simulation/questa/nand_gate.vo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.asm.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.asm_labs.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.cmp.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.eda.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.map.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.npp.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.root_partition.map.reg_db.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.routing.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.sgate.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.sgate_sm.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.smart_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.sta.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.sta.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.sta_cmp.4_slow.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.tmw_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/db/nor_gate.vpr.ammdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/incremental_db/compiled_partitions/nor_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/incremental_db/compiled_partitions/nor_gate.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/nor_gate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/nor_gate.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/nor_gate.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/nor_gate.qws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/nor_gate.v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.eda.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.jdi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.sld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.sta.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/output_files/nor_gate.sta.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/simulation/questa/nor_gate.sft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/nor_gate/simulation/questa/nor_gate.vo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.asm.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.asm_labs.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.cmp.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.eda.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.map.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.npp.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.root_partition.map.reg_db.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.routing.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.sgate.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.sgate_sm.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.smart_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.sta.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.sta.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.sta_cmp.4_slow.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.tmw_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/db/not_gate.vpr.ammdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/incremental_db/compiled_partitions/not_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/incremental_db/compiled_partitions/not_gate.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/not_gate.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/not_gate.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/not_gate.qws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/not_gate.v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.eda.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.jdi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.sld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.sta.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/output_files/not_gate.sta.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/simulation/questa/not_gate.sft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/not_gate/simulation/questa/not_gate.vo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.asm.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.asm_labs.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.cmp.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.eda.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.map.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.npp.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.root_partition.map.reg_db.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.routing.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.sgate.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.sgate_sm.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.smart_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.sta.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.sta.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.sta_cmp.4_slow.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.tmw_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/db/or_gate.vpr.ammdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/incremental_db/compiled_partitions/or_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/incremental_db/compiled_partitions/or_gate.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/or_gate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/or_gate.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/or_gate.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/or_gate.qws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/or_gate.v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.eda.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.jdi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.sld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.sta.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/output_files/or_gate.sta.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/simulation/questa/or_gate.sft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/or_gate/simulation/questa/or_gate.vo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.asm.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.asm_labs.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.cmp.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.eda.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.map.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.npp.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.root_partition.map.reg_db.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.routing.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.sgate.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.sgate_sm.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.smart_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.sta.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.sta.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.sta_cmp.4_slow.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.tmw_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/db/xand_gate.vpr.ammdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/incremental_db/compiled_partitions/xand_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/incremental_db/compiled_partitions/xand_gate.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.eda.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.jdi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.sld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.sta.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/output_files/xand_gate.sta.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/simulation/questa/xand_gate.sft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/simulation/questa/xand_gate.vo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/xand_gate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/xand_gate.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/xand_gate.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/xand_gate.qws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xand_gate/xand_gate.v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.asm.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.asm_labs.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.cmp.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.eda.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.map.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.npp.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.root_partition.map.reg_db.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.routing.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.sgate.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.sgate_sm.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.smart_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.sta.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.sta.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.sta_cmp.4_slow.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.tmw_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/db/xnand_gate.vpr.ammdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/incremental_db/compiled_partitions/xnand_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/incremental_db/compiled_partitions/xnand_gate.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.eda.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.jdi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.sld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.sta.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/output_files/xnand_gate.sta.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/simulation/questa/xnand_gate.sft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/simulation/questa/xnand_gate.vo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/xnand_gate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/xnand_gate.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/xnand_gate.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/xnand_gate.qws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnand_gate/xnand_gate.v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.asm.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.asm_labs.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.cmp.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.eda.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.map.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.npp.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.root_partition.map.reg_db.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.routing.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.sgate.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.sgate_sm.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.smart_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.sta.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.sta.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.sta_cmp.4_slow.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.tmw_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/db/xnor_gate.vpr.ammdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/incremental_db/compiled_partitions/xnor_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/incremental_db/compiled_partitions/xnor_gate.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.eda.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.jdi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.sld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.sta.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/output_files/xnor_gate.sta.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/simulation/questa/xnor_gate.sft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/simulation/questa/xnor_gate.vo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/xnor_gate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/xnor_gate.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/xnor_gate.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/xnor_gate.qws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xnor_gate/xnor_gate.v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.asm.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.asm_labs.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.cmp.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.eda.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.map.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.npp.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.root_partition.map.reg_db.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.routing.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.sgate.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.sgate_sm.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.smart_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.sta.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.sta.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.sta_cmp.4_slow.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.tmw_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/db/xor_gate.vpr.ammdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/incremental_db/compiled_partitions/xor_gate.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/incremental_db/compiled_partitions/xor_gate.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.eda.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.jdi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.sld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.sta.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/output_files/xor_gate.sta.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/simulation/questa/xor_gate.sft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/simulation/questa/xor_gate.vo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/xor_gate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/xor_gate.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/xor_gate.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/JApuyan/xor_gate/xor_gate.v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate-level-modelling/rpacla/nor_gate/nor_gate.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/gate-level-modelling/rpacla/nor_gate/nor_gate.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="JApuyan06-19-2025" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Paclaa&quot;
+  }
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOO8H88M6fITfH&quot;,
+        &quot;number&quot;: 24
+      },
+      &quot;lastSeen&quot;: 1752652724617
+    }
+  ]
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Gardner-College/intro-hdl.git",
+    "accountId": "2348b6d5-f2a4-4f62-8a78-6faae6c562c5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zLX84IEsdq5sqqcCLcbQEjVtMz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "japuyan-07-16-2025",
+    "last_opened_file_path": "C:/Users/Win11/PycharmProjects/intro-hdl",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52422360-a983-4b69-9c6a-79451ecdaa47" name="Changes" comment="" />
+      <created>1751511166063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751511166063</updated>
+      <workItem from="1752652933451" duration="1922000" />
+    </task>
+    <task id="LOCAL-00001" summary="machine problem hdl- runel">
+      <option name="closed" value="true" />
+      <created>1751962351044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751962351044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="machine problem hdl- runel" />
+    <MESSAGE value="laboratory exercise 001 by japuyan" />
+    <option name="LAST_COMMIT_MESSAGE" value="laboratory exercise 001 by japuyan" />
+  </component>
+</project>
