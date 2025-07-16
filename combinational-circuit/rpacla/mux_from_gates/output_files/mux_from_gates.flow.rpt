@@ -1,5 +1,5 @@
 Flow report for mux_from_gates
-Tue Jul 15 22:11:11 2025
+Wed Jul 16 11:24:53 2025
 Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
 
 
@@ -41,11 +41,17 @@ on the Quartus Prime software download page.
 +-------------------------------------------------------------------------+
 ; Flow Summary                                                            ;
 +-----------------------+-------------------------------------------------+
-; Flow Status           ; Flow Failed - Tue Jul 15 22:11:11 2025          ;
+; Flow Status           ; Successful - Wed Jul 16 11:24:53 2025           ;
 ; Quartus Prime Version ; 24.1std.0 Build 1077 03/04/2025 SC Lite Edition ;
 ; Revision Name         ; mux_from_gates                                  ;
 ; Top-level Entity Name ; mux_from_gates                                  ;
 ; Family                ; MAX V                                           ;
+; Total logic elements  ; 2 / 40 ( 5 % )                                  ;
+; Total pins            ; 7 / 30 ( 23 % )                                 ;
+; Total virtual pins    ; 0                                               ;
+; UFM blocks            ; 0 / 1 ( 0 % )                                   ;
+; Device                ; 5M40ZM64C4                                      ;
+; Timing Models         ; Final                                           ;
 +-----------------------+-------------------------------------------------+
 
 
@@ -54,7 +60,7 @@ on the Quartus Prime software download page.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 07/15/2025 22:10:56 ;
+; Start date & time ; 07/16/2025 11:24:15 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; mux_from_gates      ;
 +-------------------+---------------------+
@@ -65,7 +71,7 @@ on the Quartus Prime software download page.
 +---------------------------------+---------------------------------+---------------+-------------+-----------------------------------+
 ; Assignment Name                 ; Value                           ; Default Value ; Entity Name ; Section Id                        ;
 +---------------------------------+---------------------------------+---------------+-------------+-----------------------------------+
-; COMPILER_SIGNATURE_ID           ; 121580367155009.175258865612196 ; --            ; --          ; --                                ;
+; COMPILER_SIGNATURE_ID           ; 121580367155009.175263625417592 ; --            ; --          ; --                                ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST ; Off                             ; --            ; --          ; eda_board_design_timing           ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST ; Off                             ; --            ; --          ; eda_board_design_boundary_scan    ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST ; Off                             ; --            ; --          ; eda_board_design_signal_integrity ;
@@ -82,8 +88,12 @@ on the Quartus Prime software download page.
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis ; 00:00:15     ; 1.0                     ; 4710 MB             ; 00:00:34                           ;
-; Total                ; 00:00:15     ; --                      ; --                  ; 00:00:34                           ;
+; Analysis & Synthesis ; 00:00:24     ; 1.0                     ; 4719 MB             ; 00:00:43                           ;
+; Fitter               ; 00:00:04     ; 1.0                     ; 5091 MB             ; 00:00:03                           ;
+; Assembler            ; 00:00:01     ; 1.0                     ; 4682 MB             ; 00:00:01                           ;
+; Timing Analyzer      ; 00:00:02     ; 1.0                     ; 4678 MB             ; 00:00:02                           ;
+; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 4638 MB             ; 00:00:01                           ;
+; Total                ; 00:00:32     ; --                      ; --                  ; 00:00:50                           ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
@@ -93,6 +103,10 @@ on the Quartus Prime software download page.
 ; Module Name          ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
 +----------------------+------------------+------------+------------+----------------+
 ; Analysis & Synthesis ; DESKTOP-GE87H04  ; Windows 10 ; 10.0       ; x86_64         ;
+; Fitter               ; DESKTOP-GE87H04  ; Windows 10 ; 10.0       ; x86_64         ;
+; Assembler            ; DESKTOP-GE87H04  ; Windows 10 ; 10.0       ; x86_64         ;
+; Timing Analyzer      ; DESKTOP-GE87H04  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer   ; DESKTOP-GE87H04  ; Windows 10 ; 10.0       ; x86_64         ;
 +----------------------+------------------+------------+------------+----------------+
 
 
@@ -100,6 +114,10 @@ on the Quartus Prime software download page.
 ; Flow Log ;
 ------------
 quartus_map --read_settings_files=on --write_settings_files=off mux_from_gates -c mux_from_gates
+quartus_fit --read_settings_files=off --write_settings_files=off mux_from_gates -c mux_from_gates
+quartus_asm --read_settings_files=off --write_settings_files=off mux_from_gates -c mux_from_gates
+quartus_sta mux_from_gates -c mux_from_gates
+quartus_eda --read_settings_files=off --write_settings_files=off mux_from_gates -c mux_from_gates
 
 
 

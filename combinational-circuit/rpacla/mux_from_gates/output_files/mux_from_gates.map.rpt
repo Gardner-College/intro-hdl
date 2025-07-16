@@ -1,5 +1,5 @@
 Analysis & Synthesis report for mux_from_gates
-Tue Jul 15 22:11:11 2025
+Wed Jul 16 11:24:38 2025
 Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
 
 
@@ -11,7 +11,10 @@ Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
   3. Analysis & Synthesis Settings
   4. Parallel Compilation
   5. Analysis & Synthesis Source Files Read
-  6. Analysis & Synthesis Messages
+  6. Analysis & Synthesis Resource Usage Summary
+  7. Analysis & Synthesis Resource Utilization by Entity
+  8. General Register Statistics
+  9. Analysis & Synthesis Messages
 
 
 
@@ -38,11 +41,15 @@ on the Quartus Prime software download page.
 +-------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                  ;
 +-----------------------------+-------------------------------------------------+
-; Analysis & Synthesis Status ; Failed - Tue Jul 15 22:11:11 2025               ;
+; Analysis & Synthesis Status ; Successful - Wed Jul 16 11:24:38 2025           ;
 ; Quartus Prime Version       ; 24.1std.0 Build 1077 03/04/2025 SC Lite Edition ;
 ; Revision Name               ; mux_from_gates                                  ;
 ; Top-level Entity Name       ; mux_from_gates                                  ;
 ; Family                      ; MAX V                                           ;
+; Total logic elements        ; 2                                               ;
+; Total pins                  ; 7                                               ;
+; Total virtual pins          ; 0                                               ;
+; UFM blocks                  ; 0 / 1 ( 0 % )                                   ;
 +-----------------------------+-------------------------------------------------+
 
 
@@ -141,13 +148,72 @@ on the Quartus Prime software download page.
 +----------------------------------+-----------------+------------------------+-------------------------------------------------------------------------------------------------------+---------+
 
 
++-----------------------------------------------------+
+; Analysis & Synthesis Resource Usage Summary         ;
++---------------------------------------------+-------+
+; Resource                                    ; Usage ;
++---------------------------------------------+-------+
+; Total logic elements                        ; 2     ;
+;     -- Combinational with no register       ; 2     ;
+;     -- Register only                        ; 0     ;
+;     -- Combinational with a register        ; 0     ;
+;                                             ;       ;
+; Logic element usage by number of LUT inputs ;       ;
+;     -- 4 input functions                    ; 2     ;
+;     -- 3 input functions                    ; 0     ;
+;     -- 2 input functions                    ; 0     ;
+;     -- 1 input functions                    ; 0     ;
+;     -- 0 input functions                    ; 0     ;
+;                                             ;       ;
+; Logic elements by mode                      ;       ;
+;     -- normal mode                          ; 2     ;
+;     -- arithmetic mode                      ; 0     ;
+;     -- qfbk mode                            ; 0     ;
+;     -- register cascade mode                ; 0     ;
+;     -- synchronous clear/load mode          ; 0     ;
+;     -- asynchronous clear/load mode         ; 0     ;
+;                                             ;       ;
+; Total registers                             ; 0     ;
+; I/O pins                                    ; 7     ;
+; Maximum fan-out node                        ; A     ;
+; Maximum fan-out                             ; 2     ;
+; Total fan-out                               ; 9     ;
+; Average fan-out                             ; 1.00  ;
++---------------------------------------------+-------+
+
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Resource Utilization by Entity                                                                                                                                                                                   ;
++----------------------------+-------------+--------------+------------+------+--------------+--------------+-------------------+------------------+-----------------+------------+---------------------+----------------+--------------+
+; Compilation Hierarchy Node ; Logic Cells ; LC Registers ; UFM Blocks ; Pins ; Virtual Pins ; LUT-Only LCs ; Register-Only LCs ; LUT/Register LCs ; Carry Chain LCs ; Packed LCs ; Full Hierarchy Name ; Entity Name    ; Library Name ;
++----------------------------+-------------+--------------+------------+------+--------------+--------------+-------------------+------------------+-----------------+------------+---------------------+----------------+--------------+
+; |mux_from_gates            ; 2 (2)       ; 0            ; 0          ; 7    ; 0            ; 2 (2)        ; 0 (0)             ; 0 (0)            ; 0 (0)           ; 0 (0)      ; |mux_from_gates     ; mux_from_gates ; work         ;
++----------------------------+-------------+--------------+------------+------+--------------+--------------+-------------------+------------------+-----------------+------------+---------------------+----------------+--------------+
+Note: For table entries with two numbers listed, the numbers in parentheses indicate the number of resources of the given type used by the specific entity alone. The numbers listed outside of parentheses indicate the total resources of the given type used by the specific entity and all of its sub-entities in the hierarchy.
+
+
++------------------------------------------------------+
+; General Register Statistics                          ;
++----------------------------------------------+-------+
+; Statistic                                    ; Value ;
++----------------------------------------------+-------+
+; Total registers                              ; 0     ;
+; Number of registers using Synchronous Clear  ; 0     ;
+; Number of registers using Synchronous Load   ; 0     ;
+; Number of registers using Asynchronous Clear ; 0     ;
+; Number of registers using Asynchronous Load  ; 0     ;
+; Number of registers using Clock Enable       ; 0     ;
+; Number of registers using Preset             ; 0     ;
++----------------------------------------------+-------+
+
+
 +-------------------------------+
 ; Analysis & Synthesis Messages ;
 +-------------------------------+
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
-    Info: Processing started: Tue Jul 15 22:10:56 2025
+    Info: Processing started: Wed Jul 16 11:24:14 2025
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off mux_from_gates -c mux_from_gates
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 2 of the 2 processors detected
@@ -160,11 +226,14 @@ Warning (10236): Verilog HDL Implicit Net warning at mux_from_gates.v(20): creat
 Warning (10236): Verilog HDL Implicit Net warning at mux_from_gates.v(21): created implicit net for "y2" File: C:/Users/Win11/PycharmProjects/intro-hdl/combinational-circuit/rpacla/mux_from_gates/mux_from_gates.v Line: 21
 Warning (10236): Verilog HDL Implicit Net warning at mux_from_gates.v(22): created implicit net for "y3" File: C:/Users/Win11/PycharmProjects/intro-hdl/combinational-circuit/rpacla/mux_from_gates/mux_from_gates.v Line: 22
 Info (12127): Elaborating entity "mux_from_gates" for the top level hierarchy
-Error (12060): Can't synthesize current design -- design does not contain any logic
-Error: Quartus Prime Analysis & Synthesis was unsuccessful. 1 error, 7 warnings
-    Error: Peak virtual memory: 4710 megabytes
-    Error: Processing ended: Tue Jul 15 22:11:11 2025
-    Error: Elapsed time: 00:00:15
-    Error: Total CPU time (on all processors): 00:00:34
+Info (21057): Implemented 9 device resources after synthesis - the final resource count might be different
+    Info (21058): Implemented 6 input pins
+    Info (21059): Implemented 1 output pins
+    Info (21061): Implemented 2 logic cells
+Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 7 warnings
+    Info: Peak virtual memory: 4719 megabytes
+    Info: Processing ended: Wed Jul 16 11:24:38 2025
+    Info: Elapsed time: 00:00:24
+    Info: Total CPU time (on all processors): 00:00:43
 
 
