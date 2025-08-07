@@ -1,5 +1,5 @@
 Assembler report for case_statement
-Thu Aug  7 17:34:10 2025
+Thu Aug  7 18:00:19 2025
 Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
 
 
@@ -38,7 +38,7 @@ on the Quartus Prime software download page.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Thu Aug  7 17:34:10 2025 ;
+; Assembler Status      ; Successful - Thu Aug  7 18:00:19 2025 ;
 ; Revision Name         ; case_statement                        ;
 ; Top-level Entity Name ; case_statement                        ;
 ; Family                ; MAX V                                 ;
@@ -78,15 +78,15 @@ on the Quartus Prime software download page.
 Info: *******************************************************************
 Info: Running Quartus Prime Assembler
     Info: Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
-    Info: Processing started: Thu Aug  7 17:34:09 2025
+    Info: Processing started: Thu Aug  7 18:00:19 2025
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off case_statement -c case_statement
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
 Info: Quartus Prime Assembler was successful. 0 errors, 1 warning
     Info: Peak virtual memory: 4687 megabytes
-    Info: Processing ended: Thu Aug  7 17:34:10 2025
-    Info: Elapsed time: 00:00:01
+    Info: Processing ended: Thu Aug  7 18:00:19 2025
+    Info: Elapsed time: 00:00:00
     Info: Total CPU time (on all processors): 00:00:00
 
 
