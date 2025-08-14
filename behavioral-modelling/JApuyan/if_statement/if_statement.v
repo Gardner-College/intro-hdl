@@ -1,14 +1,14 @@
 //-----------------------------------------------------
-// Design Name : case_statement
-// File Name   : case_statement.v
-// Function    : 2:1 Mux using Case
+// Design Name : if_statement
+// File Name   : if_statement.v
+// Function    : 2:1 Mux using If
 // Coder       : Deepak Kumar Tala
 //-----------------------------------------------------
-module    case_statement(
+module  if_statement(
 din_0      , // Mux first input
 din_1      , // Mux Second input
-sel           , // Select input
-mux_out   // Mux output
+sel        , // Select input
+mux_out      // Mux output
 );
 //-----------Input Ports---------------
 input din_0, din_1, sel ;
@@ -18,11 +18,12 @@ output mux_out;
 reg  mux_out;
 //-------------Code Starts Here---------
 always @ (sel or din_0 or din_1)
-			begin : MUX
-			case(sel )
-			1'b0 : mux_out = din_0;
-			1'b1 : mux_out = din_1;
-			endcase
-			end
-
+begin : MUX
+if (sel == 1'b0) begin
+     mux_out = din_0;
+     end else begin
+     mux_out = din_1 ;
+     end
+end
+ 
 endmodule //End Of Module mux
