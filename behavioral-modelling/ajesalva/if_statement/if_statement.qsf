@@ -19,14 +19,14 @@
 #
 # Quartus Prime
 # Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
-# Date created = 10:41:22  August 07, 2025
+# Date created = 10:45:00  August 07, 2025
 #
 # -------------------------------------------------------------------------- #
 #
 # Notes:
 #
 # 1) The default values for assignments are stored in the file:
-#		assign_statement_assignment_defaults.qdf
+#		if_statement_assignment_defaults.qdf
 #    If this file doesn't exist, see file:
 #		assignment_defaults.qdf
 #
@@ -39,9 +39,9 @@
 
 set_global_assignment -name FAMILY "MAX V"
 set_global_assignment -name DEVICE auto
-set_global_assignment -name TOP_LEVEL_ENTITY assign_statement
+set_global_assignment -name TOP_LEVEL_ENTITY if_statement
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION 24.1STD.0
-set_global_assignment -name PROJECT_CREATION_TIME_DATE "10:41:22  AUGUST 07, 2025"
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "10:45:00  AUGUST 07, 2025"
 set_global_assignment -name LAST_QUARTUS_VERSION "24.1std.0 Lite Edition"
 set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
 set_global_assignment -name EDA_SIMULATION_TOOL "Questa Intel FPGA (Verilog)"
@@ -51,4 +51,4 @@ set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_
 set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_board_design_symbol
 set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_board_design_signal_integrity
 set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_board_design_boundary_scan
-set_global_assignment -name VERILOG_FILE assign_statement.v
+set_global_assignment -name VERILOG_FILE if_statement.v
