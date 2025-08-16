@@ -13,6 +13,6 @@ module xor_gate(
   );
   
   // Gate type
-  xor emago (C, A, B); 
+  xor jesalva (C, A, B); 
 
 endmodule
