@@ -3,7 +3,7 @@
 // Design Name : xor_gate
 // File Name : xor_gate.v
 // Function : Implement XOR logic gate
-// Designer: Ernie Mago
+// Designer: Andrei Jesalva
 // Period: Term 3 AY24-25
 //-----------------------------------------------------
 
