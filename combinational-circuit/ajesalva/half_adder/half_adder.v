@@ -3,7 +3,7 @@
 // Design Name : half_adder
 // File Name : half_adder.v
 // Function : Implement AND logic gate
-// Designer: Dave DeBien
+// Designer: Andrei Jesalva
 // Period: Term 3 AY24-25
 //-----------------------------------------------------
 
