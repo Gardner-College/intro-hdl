@@ -1,0 +1,173 @@
+<changelist name="Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]" date="1755340216343" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 8/16/2025 3:30 AM [Changes]" />
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.cmp0.ddb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.cmp0.ddb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/mux_from_gate/db/mux_from_gate.map.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/mux_from_gate.map.rdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.sgate_sm.nvd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.sgate_sm.nvd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.rtlv_sg.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.rtlv_sg.cdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/mux_from_gate/db/mux_from_gate.sld_design_entry.sci" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/mux_from_gate.sld_design_entry.sci" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.cmp.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.cmp.hdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/mux_from_gate/db/mux_from_gate.pre_map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/mux_from_gate.pre_map.hdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.rtlv.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.rtlv.hdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.(0).cnf.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.(0).cnf.hdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/incremental_db/compiled_partitions/half_adder.root_partition.map.kpt" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.root_partition.map.kpt" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/mux_from_gate/db/mux_from_gate.cmp.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/mux_from_gate.cmp.rdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.map.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.map.rdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.asm_labs.ddb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.asm_labs.ddb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.sld_design_entry_dsc.sci" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.sld_design_entry_dsc.sci" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.cmp.idb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.cmp.idb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.routing.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.routing.rdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.tis_db_list.ddb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.tis_db_list.ddb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.sta.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.sta.rdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.pre_map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.pre_map.hdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gate-level-modelling/emago/xor_gate/xor_gate.qws" />
+    <option name="AFTER_PATH" value="gate-level-modelling/emago/xor_gate/xor_gate.qws" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/xor_gate.qws" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.rtlv_sg_swap.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.rtlv_sg_swap.cdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.sta_cmp.4_slow.tdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.sta_cmp.4_slow.tdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.(0).cnf.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.(0).cnf.cdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/half_addder.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_addder.pdf" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/output_files/half_adder.pof" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.pof" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="combinational-circuit/emago/half_adder/half_adder.qws" />
+    <option name="AFTER_PATH" value="combinational-circuit/emago/half_adder/half_adder.qws" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.qws" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/.cmp.kpt" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/.cmp.kpt" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.sgate.nvd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.sgate.nvd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/mux_from_gate/db/mux_from_gate.map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/mux_from_gate.map.hdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/mux_from_gate/db/mux_from_gate.tis_db_list.ddb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/mux_from_gate.tis_db_list.ddb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.hif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.hif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="combinational-circuit/emago/mux_from_gates/mux_from_gates.qws" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.sld_design_entry.sci" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.sld_design_entry.sci" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.map.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.map.cdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/mux_from_gate/db/mux_from_gate.hif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/mux_from_gate.hif" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.cmp.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.cmp.cdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.map.hdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.map.hdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.vpr.ammdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.vpr.ammdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.cmp.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.cmp.rdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.asm.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.asm.rdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.root_partition.map.reg_db.cdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.root_partition.map.reg_db.cdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="combinational-circuit/scardinal/half_adder/db/half_adder.lpc.rdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_16_2025_3_30_AM_[Changes]/half_adder.lpc.rdb" />
+  </binary>
+</changelist>
