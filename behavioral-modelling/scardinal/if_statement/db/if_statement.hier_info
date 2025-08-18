@@ -1,0 +1,7 @@
+|if_statement
+din_0 => mux_out.DATAB
+din_1 => mux_out.DATAA
+sel => mux_out.OUTPUTSELECT
+mux_out <= mux_out.DB_MAX_OUTPUT_PORT_TYPE
+
+

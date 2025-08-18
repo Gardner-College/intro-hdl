@@ -1,0 +1,6 @@
+|or_gate
+A => scardinal.IN0
+B => scardinal.IN1
+C <= scardinal.DB_MAX_OUTPUT_PORT_TYPE
+
+
