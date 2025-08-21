@@ -19,12 +19,12 @@
 #
 # Quartus Prime
 # Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
-# Date created = 11:35:58  July 03, 2025
+# Date created = 20:40:01  August 20, 2025
 #
 # -------------------------------------------------------------------------- #
 
 QUARTUS_VERSION = "24.1"
-DATE = "11:35:58  July 03, 2025"
+DATE = "20:40:01  August 20, 2025"
 
 # Revisions
 

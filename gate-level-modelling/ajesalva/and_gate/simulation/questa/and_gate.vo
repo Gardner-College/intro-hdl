@@ -17,7 +17,7 @@
 // PROGRAM "Quartus Prime"
 // VERSION "Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition"
 
-// DATE "07/03/2025 11:34:44"
+// DATE "08/20/2025 20:21:37"
 
 // 
 // Device: Altera 5M40ZM64C4 Package MBGA64
@@ -53,7 +53,7 @@ tri1 devpor;
 tri1 devoe;
 wire \A~combout ;
 wire \B~combout ;
-wire \emago~combout ;
+wire \jandrei~combout ;
 
 
 // Location: PIN_F3,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: Default
@@ -77,9 +77,9 @@ defparam \B~I .operation_mode = "input";
 // synopsys translate_on
 
 // Location: LC_X2_Y2_N5
-maxv_lcell emago(
+maxv_lcell jandrei(
 // Equation(s):
-// \emago~combout  = ((\A~combout  & ((\B~combout ))))
+// \jandrei~combout  = ((\A~combout  & ((\B~combout ))))
 
 	.clk(gnd),
 	.dataa(vcc),
@@ -98,23 +98,23 @@ maxv_lcell emago(
 	.regcascin(gnd),
 	.devclrn(devclrn),
 	.devpor(devpor),
-	.combout(\emago~combout ),
+	.combout(\jandrei~combout ),
 	.regout(),
 	.cout(),
 	.cout0(),
 	.cout1());
 // synopsys translate_off
-defparam emago.lut_mask = "cc00";
-defparam emago.operation_mode = "normal";
-defparam emago.output_mode = "comb_only";
-defparam emago.register_cascade_mode = "off";
-defparam emago.sum_lutc_input = "datac";
-defparam emago.synch_mode = "off";
+defparam jandrei.lut_mask = "cc00";
+defparam jandrei.operation_mode = "normal";
+defparam jandrei.output_mode = "comb_only";
+defparam jandrei.register_cascade_mode = "off";
+defparam jandrei.sum_lutc_input = "datac";
+defparam jandrei.synch_mode = "off";
 // synopsys translate_on
 
 // Location: PIN_F8,	 I/O Standard: 3.3-V LVTTL,	 Current Strength: 16mA
 maxv_io \C~I (
-	.datain(\emago~combout ),
+	.datain(\jandrei~combout ),
 	.oe(vcc),
 	.combout(),
 	.padio(C));

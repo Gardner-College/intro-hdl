@@ -2,8 +2,8 @@
 // Laboratory Experiment 001
 // Design Name : xor_gate
 // File Name : xor_gate.v
-// Function : Implement XOR logic gate
-// Designer: Ernie Mago
+// Function : Implement AND logic gate
+// Designer: jesalva	andrei
 // Period: Term 3 AY24-25
 //-----------------------------------------------------
 
@@ -13,6 +13,6 @@ module xor_gate(
   );
   
   // Gate type
-  xor emago (C, A, B); 
+  xor  jandrei (C, A, B);
 
 endmodule

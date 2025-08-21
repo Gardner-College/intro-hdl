@@ -1,5 +1,5 @@
 Fitter report for not_gate
-Thu Jul  3 11:56:49 2025
+Wed Aug 20 21:52:34 2025
 Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
 
 
@@ -50,7 +50,7 @@ on the Quartus Prime software download page.
 +-------------------------------------------------------------------------+
 ; Fitter Summary                                                          ;
 +-----------------------+-------------------------------------------------+
-; Fitter Status         ; Successful - Thu Jul  3 11:56:49 2025           ;
+; Fitter Status         ; Successful - Wed Aug 20 21:52:34 2025           ;
 ; Quartus Prime Version ; 24.1std.0 Build 1077 03/04/2025 SC Lite Edition ;
 ; Revision Name         ; not_gate                                        ;
 ; Top-level Entity Name ; not_gate                                        ;
@@ -116,8 +116,8 @@ on the Quartus Prime software download page.
 +----------------------------+-------------+
 ; Processors                 ; Number      ;
 +----------------------------+-------------+
-; Number detected on machine ; 12          ;
-; Maximum allowed            ; 12          ;
+; Number detected on machine ; 4           ;
+; Maximum allowed            ; 2           ;
 ;                            ;             ;
 ; Average used               ; 1.00        ;
 ; Maximum used               ; 1           ;
@@ -130,7 +130,7 @@ on the Quartus Prime software download page.
 +--------------+
 ; Pin-Out File ;
 +--------------+
-The pin-out file can be found in C:/Users/Ernie James Mago/PycharmProjects/intro-hdl/gate-level-modelling/emago/not_gate/output_files/not_gate.pin.
+The pin-out file can be found in C:/Users/Win11/PycharmProjects/intro-hdl/gate-level-modelling/ajesalva/not_gate/output_files/not_gate.pin.
 
 
 +------------------------------------------------------------------+
@@ -365,7 +365,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 ; Fitter Messages ;
 +-----------------+
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
-Info (20030): Parallel compilation is enabled and will use 12 of the 12 processors detected
+Info (20030): Parallel compilation is enabled and will use 2 of the 2 processors detected
 Info (119004): Automatically selected device 5M40ZM64C4 for design not_gate
 Info (171003): Fitter is performing an Auto Fit compilation, which may decrease Fitter effort to reduce compilation time
 Warning (292013): Feature LogicLock is only available with a valid subscription license. You can purchase a software subscription to gain full access to this feature.
@@ -407,20 +407,20 @@ Info (170199): The Fitter performed an Auto Fit compilation.  Optimizations were
     Info (170201): Optimizations that may affect the design's routability were skipped
     Info (170200): Optimizations that may affect the design's timing were skipped
 Info (170194): Fitter routing operations ending: elapsed time is 00:00:00
-Info (11888): Total time spent on timing analysis during the Fitter is 0.10 seconds.
+Info (11888): Total time spent on timing analysis during the Fitter is 0.20 seconds.
 Info (11218): Fitter post-fit operations ending: elapsed time is 00:00:00
 Warning (169174): The Reserve All Unused Pins setting has not been specified, and will default to 'As output driving ground'.
-Info (144001): Generated suppressed messages file C:/Users/Ernie James Mago/PycharmProjects/intro-hdl/gate-level-modelling/emago/not_gate/output_files/not_gate.fit.smsg
+Info (144001): Generated suppressed messages file C:/Users/Win11/PycharmProjects/intro-hdl/gate-level-modelling/ajesalva/not_gate/output_files/not_gate.fit.smsg
 Info: Quartus Prime Fitter was successful. 0 errors, 7 warnings
-    Info: Peak virtual memory: 5871 megabytes
-    Info: Processing ended: Thu Jul  3 11:56:49 2025
-    Info: Elapsed time: 00:00:02
-    Info: Total CPU time (on all processors): 00:00:02
+    Info: Peak virtual memory: 5092 megabytes
+    Info: Processing ended: Wed Aug 20 21:52:34 2025
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:03
 
 
 +----------------------------+
 ; Fitter Suppressed Messages ;
 +----------------------------+
-The suppressed messages can be found in C:/Users/Ernie James Mago/PycharmProjects/intro-hdl/gate-level-modelling/emago/not_gate/output_files/not_gate.fit.smsg.
+The suppressed messages can be found in C:/Users/Win11/PycharmProjects/intro-hdl/gate-level-modelling/ajesalva/not_gate/output_files/not_gate.fit.smsg.
 
 

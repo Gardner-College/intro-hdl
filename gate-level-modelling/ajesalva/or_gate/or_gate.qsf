@@ -19,7 +19,7 @@
 #
 # Quartus Prime
 # Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
-# Date created = 11:25:27  July 03, 2025
+# Date created = 22:20:33  August 20, 2025
 #
 # -------------------------------------------------------------------------- #
 #
@@ -41,7 +41,7 @@ set_global_assignment -name FAMILY "MAX V"
 set_global_assignment -name DEVICE auto
 set_global_assignment -name TOP_LEVEL_ENTITY or_gate
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION 24.1STD.0
-set_global_assignment -name PROJECT_CREATION_TIME_DATE "11:25:27  JULY 03, 2025"
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "22:20:33  AUGUST 20, 2025"
 set_global_assignment -name LAST_QUARTUS_VERSION "24.1std.0 Lite Edition"
 set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
 set_global_assignment -name EDA_SIMULATION_TOOL "Questa Intel FPGA (Verilog)"

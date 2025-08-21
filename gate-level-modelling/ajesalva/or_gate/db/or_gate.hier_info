@@ -1,6 +1,6 @@
 |or_gate
-A => emago.IN0
-B => emago.IN1
-C <= emago.DB_MAX_OUTPUT_PORT_TYPE
+A => jandrei.IN0
+B => jandrei.IN1
+C <= jandrei.DB_MAX_OUTPUT_PORT_TYPE
 
 

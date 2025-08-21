@@ -1,5 +1,5 @@
 Analysis & Synthesis report for xnor_gate
-Thu Jul  3 11:51:02 2025
+Wed Aug 20 22:37:29 2025
 Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
 
 
@@ -41,7 +41,7 @@ on the Quartus Prime software download page.
 +-------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                  ;
 +-----------------------------+-------------------------------------------------+
-; Analysis & Synthesis Status ; Successful - Thu Jul  3 11:51:02 2025           ;
+; Analysis & Synthesis Status ; Successful - Wed Aug 20 22:37:28 2025           ;
 ; Quartus Prime Version       ; 24.1std.0 Build 1077 03/04/2025 SC Lite Edition ;
 ; Revision Name               ; xnor_gate                                       ;
 ; Top-level Entity Name       ; xnor_gate                                       ;
@@ -128,8 +128,8 @@ on the Quartus Prime software download page.
 +----------------------------+-------------+
 ; Processors                 ; Number      ;
 +----------------------------+-------------+
-; Number detected on machine ; 12          ;
-; Maximum allowed            ; 12          ;
+; Number detected on machine ; 4           ;
+; Maximum allowed            ; 2           ;
 ;                            ;             ;
 ; Average used               ; 1.00        ;
 ; Maximum used               ; 1           ;
@@ -139,13 +139,13 @@ on the Quartus Prime software download page.
 +----------------------------+-------------+
 
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Source Files Read                                                                                                                                                       ;
-+----------------------------------+-----------------+------------------------+------------------------------------------------------------------------------------------------------+---------+
-; File Name with User-Entered Path ; Used in Netlist ; File Type              ; File Name with Absolute Path                                                                         ; Library ;
-+----------------------------------+-----------------+------------------------+------------------------------------------------------------------------------------------------------+---------+
-; xnor_gate.v                      ; yes             ; User Verilog HDL File  ; C:/Users/Ernie James Mago/PycharmProjects/intro-hdl/gate-level-modelling/emago/xnor_gate/xnor_gate.v ;         ;
-+----------------------------------+-----------------+------------------------+------------------------------------------------------------------------------------------------------+---------+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                                               ;
++----------------------------------+-----------------+------------------------+----------------------------------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type              ; File Name with Absolute Path                                                                 ; Library ;
++----------------------------------+-----------------+------------------------+----------------------------------------------------------------------------------------------+---------+
+; xnor_gate.v                      ; yes             ; User Verilog HDL File  ; C:/Users/Win11/PycharmProjects/intro-hdl/gate-level-modelling/ajesalva/xnor_gate/xnor_gate.v ;         ;
++----------------------------------+-----------------+------------------------+----------------------------------------------------------------------------------------------+---------+
 
 
 +-----------------------------------------------------+
@@ -213,21 +213,21 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
-    Info: Processing started: Thu Jul  3 11:50:52 2025
+    Info: Processing started: Wed Aug 20 22:37:04 2025
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off xnor_gate -c xnor_gate
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
-Info (20030): Parallel compilation is enabled and will use 12 of the 12 processors detected
+Info (20030): Parallel compilation is enabled and will use 2 of the 2 processors detected
 Info (12021): Found 1 design units, including 1 entities, in source file xnor_gate.v
-    Info (12023): Found entity 1: xnor_gate File: C:/Users/Ernie James Mago/PycharmProjects/intro-hdl/gate-level-modelling/emago/xnor_gate/xnor_gate.v Line: 10
+    Info (12023): Found entity 1: xnor_gate File: C:/Users/Win11/PycharmProjects/intro-hdl/gate-level-modelling/ajesalva/xnor_gate/xnor_gate.v Line: 9
 Info (12127): Elaborating entity "xnor_gate" for the top level hierarchy
 Info (21057): Implemented 4 device resources after synthesis - the final resource count might be different
     Info (21058): Implemented 2 input pins
     Info (21059): Implemented 1 output pins
     Info (21061): Implemented 1 logic cells
 Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 1 warning
-    Info: Peak virtual memory: 4723 megabytes
-    Info: Processing ended: Thu Jul  3 11:51:02 2025
-    Info: Elapsed time: 00:00:10
-    Info: Total CPU time (on all processors): 00:00:25
+    Info: Peak virtual memory: 4719 megabytes
+    Info: Processing ended: Wed Aug 20 22:37:29 2025
+    Info: Elapsed time: 00:00:25
+    Info: Total CPU time (on all processors): 00:00:42
 
 
